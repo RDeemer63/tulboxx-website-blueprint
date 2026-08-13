@@ -1170,6 +1170,7 @@ Every visual should reinforce that truth.
 * `WHY_TULBOXX.md`
 * `PLATFORM.md`
 * `HOW_IT_WORKS.md`
+* `docs/TULBOXX_BRAND_STYLE_GUIDE.pdf`
 
 ## Document Authority
 
