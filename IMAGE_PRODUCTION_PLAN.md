@@ -92,12 +92,12 @@ The nine source sets below can support many page-level asset IDs. Generate a new
 |---|---|---|
 | `HOME-HERO-01` | `assets/images/approved/home/home-hero-01-desktop-master.png` | Dedicated mobile portrait and optimized production exports |
 | `HOME-REALITY-02` | `assets/images/approved/home/home-reality-02-desktop-master.png` | Mobile-ready individual panels and optimized production exports |
-| `PHOTO-C03` | `assets/images/approved/shared/photo-c03-customer-conversation-desktop-master.png` | Real mobile UI composite, dedicated mobile crop, and optimized production exports |
+| `PHOTO-C03` | `assets/images/approved/shared/photo-c03-customer-conversation-desktop-master.png` | Composite candidate with `APP-08` is in review; dedicated mobile crop and optimized production exports remain |
 | `PHOTO-C04` | `assets/images/approved/shared/photo-c04-field-capture-desktop-master.png` | Mobile-ready individual panels, badge cleanup if required, and optimized production exports |
-| `PHOTO-C05` | `assets/images/approved/shared/photo-c05-field-use-desktop-master.png`; `assets/images/approved/shared/photo-c05-field-use-truck-desktop-master.png`; `assets/images/approved/shared/photo-c05-field-use-device-detail-desktop-master.png` | Dedicated mobile portrait, real UI composites, background-brand cleanup where visible, and optimized production exports |
+| `PHOTO-C05` | `assets/images/approved/shared/photo-c05-field-use-desktop-master.png`; `assets/images/approved/shared/photo-c05-field-use-truck-desktop-master.png`; `assets/images/approved/shared/photo-c05-field-use-device-detail-desktop-master.png` | Composite candidate with `APP-10` is in review; dedicated mobile portrait, background-brand cleanup where visible, and optimized production exports remain |
 | `PHOTO-C06` | `assets/images/approved/shared/photo-c06-customer-call-desktop-master.png` | Dedicated mobile crop, background-brand cleanup, and optimized production exports |
 | `PHOTO-C07` | `assets/images/approved/shared/photo-c07-crew-coordination-desktop-master.png` | Safe mobile crop, real UI composite if the screen remains visible, and optimized production exports |
-| `PHOTO-C08` | `assets/images/approved/shared/photo-c08-payment-review-desktop-master.png` | Real mobile UI composite, dedicated mobile crop, and optimized production exports |
+| `PHOTO-C08` | `assets/images/approved/shared/photo-c08-payment-review-desktop-master.png` | Composite candidate with `APP-14` is in review; dedicated mobile crop and optimized production exports remain |
 | `PHOTO-C09` | `assets/images/approved/shared/photo-c09-closing-day-desktop-master.png` | Dedicated mobile portrait, completed-work detail, and optimized production exports |
 
 ---
@@ -142,18 +142,18 @@ The complete fictional Ridgeline demonstration fixture now exists in an isolated
 |---|---|---|---|
 | `APP-01` | Captured | Desktop and mobile Today views | None for the current interface. |
 | `APP-02` | Captured | Customer overview | Property context is represented by the customer's service address rather than a separate property object. |
-| `APP-03` | Desktop approved; mobile on hold | Connected project overview | Fix the mobile workspace-heading overflow and recapture. |
+| `APP-03` | Captured | Desktop and corrected mobile project overview | Responsive overflow fixed in app commit `0f51730`; both captures are approved. |
 | `APP-04` | Captured | Project-linked New Estimate starting state | None for the supported first-call-to-estimate path. |
 | `APP-05` | Captured | Mobile Quick capture modal | Photo attachment is supported but was not added to this transient capture. |
-| `APP-06` | Partially captured | Plain-language AI estimate input | Capture the generated draft from a fresh project; this seeded project already has an approved first estimate and rejected another version. |
-| `APP-07` | Captured | Contractor estimate review | The current approved estimate is reviewable but no longer editable. |
-| `APP-08` | Captured | Customer-facing estimate | Capture a live approval action later only if the website needs that exact interaction. |
+| `APP-06` | Captured | Plain-language AI input and the resulting generated draft with version history | The temporary fictional draft was removed after capture. |
+| `APP-07` | Captured | Editable generated estimate scope with contractor revision controls | None for the current interface. |
+| `APP-08` | Captured | Desktop and mobile customer-facing estimate | Capture a live approval action later only if the website needs that exact interaction. |
 | `APP-09` | Captured with current connected state | Booked estimate, completed job, and invoice connection | A distinct scheduled-only state remains optional. |
 | `APP-10` | Captured | Mobile job detail | None for the current interface. |
 | `APP-11` | Captured | Completed job record | Final project-file context lives in `APP-03`; the job view references the saved completion photos. |
 | `APP-12` | Captured | Pre-filled invoice editor | No second invoice was created. |
 | `APP-13` | Captured | Customer-facing paid invoice | Reminder and delivery controls remain contractor-side rather than inside this customer view. |
-| `APP-14` | Captured | Collected balance and payment history | None for the current interface. |
+| `APP-14` | Captured | Desktop and mobile collected balance and payment history | None for the current interface. |
 | `APP-15` | Captured | Customer notes, reminders, call context, and job updates | This is the supported contextual history, not a unified email/SMS inbox. |
 | `APP-16` | Captured | Field Quote and Full Proposal paths | None for the current interface. |
 | `APP-17` | Captured | Connected project workspace | Use focused crops rather than a single very tall full-page screenshot. |
