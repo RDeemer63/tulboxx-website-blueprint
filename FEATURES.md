@@ -1,7 +1,9 @@
 # TULBOXX Features
 
-**Version:** 1.1<br>
-**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Features  
 **Recommended route:** `/features`  
 **Primary CTA:** See Solutions  
@@ -195,7 +197,7 @@ The tools to win work, run jobs, stay organized, and get paid.
 
 **Supporting copy**
 
-Browse the verified capabilities behind four business outcomes: winning work, running the work, staying organized, and getting paid.
+See how each part of TULBOXX helps you win work, run jobs, stay organized, or get paid—without turning the business into a collection of disconnected tools.
 
 **Primary CTA**
 
@@ -258,7 +260,7 @@ Customers
 
 **Headline**
 
-Never lose the customer story.
+Keep the customer story within reach.
 
 **Body copy**
 
@@ -282,7 +284,7 @@ Keep notes, communication, estimates, jobs, invoices, and payment context availa
 
 ### Know the next action
 
-Make follow-up visible when the product supports reminders, tasks, or attention states.
+See the next follow-up or action without depending on memory.
 
 ## Product Proof Required
 
@@ -434,11 +436,11 @@ The contractor sets quantities, rates, totals, terms, and any supported pricing 
 
 ### Revise when the work changes
 
-Keep estimate versions and customer decisions clear when revision behavior is supported.
+Keep estimate changes and customer decisions clear as the proposed work develops.
 
 ### Make approval obvious
 
-Give the customer a professional review and approval experience using current supported methods.
+Give the customer a professional way to review the estimate and take the next step.
 
 ## Product Proof Required
 
@@ -512,7 +514,7 @@ Place the job on the schedule with its customer, location, and project context a
 
 ### See the day clearly
 
-Understand what is planned, what is active, and what needs attention using supported calendar or daily views.
+Understand what is planned, what is active, and what needs attention today.
 
 ### Keep job details together
 
@@ -520,11 +522,11 @@ Make scope, notes, photos, access details, and important history available from 
 
 ### Capture progress
 
-Add field notes, photos, activity, and completion information when supported.
+Add field notes, photos, activity, and completion information as the job moves forward.
 
 ### Coordinate the team
 
-Show assignments, roles, or crew visibility only to the extent the current product supports them.
+Give the right people visibility into the work they are responsible for.
 
 ## Product Proof Required
 
@@ -593,15 +595,15 @@ Reach the customer, project, schedule, and next action without navigating a crow
 
 ### Capture from the field
 
-Use supported notes, photos, voice, and attachments while the information is still fresh.
+Add notes, photos, voice descriptions, and attachments while the information is still fresh.
 
 ### Act between appointments
 
-Review, update, send, or advance work using current mobile-supported actions.
+Review the work, capture what changed, and take the next available action between appointments.
 
 ### Work with realistic conditions
 
-The experience should remain clear in bright light, limited attention, and supported connectivity conditions.
+The experience should remain clear when time and attention are limited and the work is happening outside an office.
 
 ## Product Proof Required
 
@@ -673,15 +675,15 @@ See who the customer is, what the work involves, and what happened last before r
 
 ### Send professional next steps
 
-Connect estimates, approvals, scheduling information, invoices, or payment requests using supported communication channels.
+Send estimates, approvals, scheduling information, invoices, or payment requests with the work still in context.
 
 ### Preserve important history
 
-Keep supported communication activity available with the customer or project.
+Keep important communication available with the customer or project.
 
 ### Improve rough language
 
-Use AI assistance to help organize or clarify messages when supported, with contractor review before sending.
+Use AI assistance to organize or clarify a rough message, then review it before anything is sent.
 
 ## Product Proof Required
 
@@ -743,7 +745,7 @@ Prepare billing from the customer and project context already connected to the j
 
 ### Build from connected work
 
-Use supported job, estimate, or project information as the starting point instead of another blank record.
+Use the job, estimate, or project information already captured as the starting point instead of another blank record.
 
 ### Review before sending
 
@@ -751,11 +753,11 @@ The contractor confirms the amount, terms, taxes, discounts, and details the pro
 
 ### Give the customer a clear payment step
 
-Present the invoice and available payment methods using current supported payment options.
+Give the customer a clear invoice and an obvious way to complete the available payment step.
 
 ### Keep balances visible
 
-See what is paid, outstanding, overdue, or otherwise needs attention when supported.
+See what is paid, what is outstanding, and what still needs attention.
 
 ### Preserve financial history
 
@@ -821,9 +823,9 @@ Get the busywork done faster. Keep the judgment that matters.
 
 **Body copy**
 
-Where verified, use AI assistance to organize rough information, prepare clearer language, and reduce repetitive administrative work.
+Use AI assistance to turn rough job information into an estimate draft, organize a work description, or prepare clearer customer communication.
 
-Capability proof must show the original input, the assisted draft, and the contractor's review or confirmation before use.
+You review the result, set the price, approve the scope, and decide what gets used or sent.
 
 ## Editorial Boundary
 

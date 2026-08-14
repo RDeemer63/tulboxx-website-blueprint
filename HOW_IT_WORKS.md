@@ -1,7 +1,9 @@
 # How TULBOXX Works
 
-**Version:** 1.1<br>
-**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** How It Works  
 **Recommended route:** `/how-it-works`  
 **Primary CTA:** Explore Features  
@@ -332,7 +334,7 @@ Walk the site. Capture what matters while it is in front of you.
 
 At the property, take photos, record measurements, and describe the work in your own words.
 
-Use a supported rough note or voice description. Where verified, TULBOXX prepares a clearer draft for the contractor to review, edit, and confirm before it becomes part of the project.
+Describe the drainage problem in your own words. TULBOXX helps organize the rough information into a clearer draft that you can review, edit, and confirm before it becomes part of the project.
 
 **Outcome line**
 
@@ -408,11 +410,11 @@ Turn what you learned into a clear, professional next step.
 
 **Body copy**
 
-Start the estimate with the customer, property, photos, and work description already connected to the project.
+Start with Morgan, the property, the site details, and the work description already connected to the project.
 
-Build the scope. Add the price. Review the details. Send Morgan an estimate that makes the work and the next step easy to understand.
+Use Generate Estimate to organize that information into a professional draft. Then review the scope, add the quantities and price, and make sure the proposed work is accurate before anything is sent.
 
-TULBOXX can help organize the draft. The contractor decides the scope, quantities, and price.
+Morgan receives an estimate that makes both the work and the next step easy to understand. You remain responsible for every detail and every dollar.
 
 **Outcome line**
 
@@ -790,7 +792,7 @@ The drainage project followed a full estimate-to-payment path.
 
 Another customer may need a quick repair, time-and-material work, a verbal price, or a job that begins without a formal estimate.
 
-TULBOXX should support the natural path of the work instead of forcing every job through the same pipeline.
+TULBOXX follows the path the job needs instead of forcing every customer through the same pipeline.
 
 ## Example Paths
 
@@ -921,7 +923,7 @@ Explore the tools behind the workflow.
 
 **Body copy**
 
-See how TULBOXX supports estimating, customers, scheduling, jobs, invoices, payments, communication, and the other work that keeps a service business moving.
+Now look beneath the Morgan Lee workflow and explore the specific tools that help win the work, run the job, stay organized, and get paid.
 
 **Primary CTA**
 

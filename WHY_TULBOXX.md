@@ -1,7 +1,9 @@
 # Why TULBOXX
 
-**Version:** 1.1<br>
-**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Why TULBOXX  
 **Recommended route:** `/why-tulboxx`  
 **Primary CTA:** Explore the Platform  
@@ -210,7 +212,11 @@ At some point, doing the work became running the work.
 
 Growth creates more customers, decisions, and responsibility around every job.
 
-When the systems underneath the work do not grow with it, the contractor absorbs the difference. That is the design problem TULBOXX exists to solve.
+But most growing contractors do not suddenly gain an office team, more hours in the day, or a second brain that remembers every detail.
+
+When the systems underneath the work do not grow with the business, the contractor absorbs the difference. More gets carried in memory. More gets finished at night. More depends on one person keeping the whole company moving.
+
+That is not a work-ethic problem. It is a systems problem.
 
 ## Visual Direction
 
@@ -266,9 +272,11 @@ You should not have to choose between the field and the business.
 
 **Body copy**
 
-Growth should not force a contractor to choose between doing the work and maintaining the systems around it.
+Most business software offers the same answer to growth: add more fields, more stages, more rules, and more time maintaining the system.
 
-You should be able to build a successful company without becoming a full-time software administrator.
+That leaves the contractor with a false choice—stay close to the work and risk losing control of the business, or stay on top of the software and spend less time doing the work that built the company.
+
+You should be able to grow without choosing between the field and the business. And without becoming a full-time software administrator.
 
 ## Editorial Boundary
 
@@ -630,15 +638,17 @@ This is bigger than saving a few minutes.
 
 **Headline**
 
-The goal is a business you can direct instead of constantly administrate.
+The goal is a business you can lead instead of constantly chase.
 
 **Body copy**
 
-When software serves the work, the contractor has more capacity to make decisions, serve customers, lead a team, and shape what comes next.
+When software serves the work, fewer details depend on memory and fewer business tasks wait until the day is over.
+
+That creates more capacity to make decisions, serve customers, lead a team, and shape what comes next.
 
 ## Transformation Copy
 
-The best version of TULBOXX is almost invisible: the contractor stays in control while the system reduces unnecessary friction underneath the work.
+The best version of TULBOXX is almost invisible. The contractor stays in control. The system quietly keeps the work organized underneath them.
 
 ## Success Is Personal
 

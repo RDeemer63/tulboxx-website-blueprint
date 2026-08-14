@@ -332,7 +332,7 @@ Is this worth it?
 
 ### Primary CTA
 
-Lock In My Ground Floor Rate
+Start Free
 
 ---
 
@@ -340,7 +340,7 @@ Lock In My Ground Floor Rate
 
 Resources, Customer Stories, and About belong in the long-term website architecture, but they are not part of the completed core launch blueprint. Develop them only when TULBOXX has approved educational content, verified customer evidence, and the company information needed to make each page useful and credible.
 
-Start Free is a conversion flow rather than a content blueprint. Its route, account-creation steps, payment requirements, and offer details must be confirmed during implementation.
+Start Free is a conversion flow rather than a content blueprint. Its route and account-creation steps still require implementation decisions, but the offer is established: no credit card is required; the first five AI-assisted estimate generations are free; drafting does not consume a generation; and the paywall appears when a user selects **Generate Estimate** on the sixth estimate, before AI runs. The current paid offer is the $39-per-month Ground Floor Rate with every feature included and the monthly rate protected for the life of the active subscription. See `PRICING.md` for the complete copy, entitlement rules, and unresolved edge cases.
 
 ---
 

@@ -1,7 +1,9 @@
 # TULBOXX Solutions
 
-**Version:** 1.1<br>
-**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Solutions Hub  
 **Recommended route:** `/solutions`  
 **Primary CTA:** View Pricing  
@@ -98,7 +100,7 @@ Different work. The same need to keep the business moving.
 
 **Supporting copy**
 
-Whether you build, repair, install, maintain, clean, or improve property, TULBOXX helps keep customers, jobs, paperwork, and payments connected around the way your business actually works.
+An excavation project, a painting job, and an HVAC service call do not move the same way. TULBOXX gives each business a connected place to manage the customer, the work, and the money without forcing every trade into the same process.
 
 **Primary CTA**
 
@@ -444,7 +446,7 @@ An excavation estimate, a painting walkthrough, and an HVAC service call do not 
 
 They still need a customer, clear work context, a next action, professional communication, and a reliable path to payment.
 
-TULBOXX should provide the shared system while allowing the work to remain specific.
+TULBOXX provides the shared system while the path stays specific to the work.
 
 ## Example Paths
 
@@ -530,7 +532,7 @@ Start free, then keep the whole platform at one straightforward rate.
 
 **Body copy**
 
-See how the first 5 estimates work, what is included at $39 per month, and how the Ground Floor Rate stays protected.
+Generate your first 5 estimates free with no credit card. Then see what is included at $39 per month and how the Ground Floor Rate stays protected.
 
 **Primary CTA**
 

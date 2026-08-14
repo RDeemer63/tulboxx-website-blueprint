@@ -1,7 +1,9 @@
 # TULBOXX Platform
 
-**Version:** 1.1<br>
-**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Platform  
 **Recommended route:** `/platform`  
 **Primary CTA:** See How It Works  
@@ -290,15 +292,17 @@ How does the first information become part of the connected record?
 
 **Eyebrow**
 
-Give the first details one place to belong.
+Start the job with what you already know.
 
 **Headline**
 
-A call, photo, or supported note becomes project context.
+Give the first details a place to stay with the work.
 
 **Body copy**
 
-Bring the customer details, property information, photos, measurements, and supported notes into the same project. As more is learned, it joins the existing record instead of creating another disconnected starting point.
+A customer name. A property. A photo. A measurement. A few rough notes about what needs to happen.
+
+Bring those first details into the project, then add what you learn as the work develops. New information strengthens the same job story instead of creating another disconnected place to search later.
 
 ## Input Examples
 
@@ -592,11 +596,13 @@ Powerful technology. Practical help.
 
 **Headline**
 
-Use connected context to reduce supported busywork.
+Use what the job already knows to get to a better draft faster.
 
 **Body copy**
 
-Where verified, TULBOXX can use information already connected to the project to help organize a draft or prepare clearer language. Every assisted result must preserve a visible contractor review step.
+TULBOXX can use the information already connected to the work to help organize rough details, prepare an estimate draft, or improve customer-facing language.
+
+AI helps with the first draft. You review the result, set the price, and decide what moves forward.
 
 ## Editorial Boundary
 
@@ -657,11 +663,13 @@ Connected without being overloaded.
 
 **Headline**
 
-Keep the record focused, then add what the job requires.
+Keep a small job focused. Give a bigger project room to grow.
 
 **Body copy**
 
-A straightforward job may need only the customer, work, completion, and payment. A larger project may add approved scope, phases, documentation, communication, and billing detail while preserving the same connected history.
+A straightforward job may need only the customer, the work, and a clear path to payment. A larger project may add approved scope, phases, documentation, communication, and billing detail.
+
+Either way, the history stays connected without making every job carry complexity it does not need.
 
 ## Editorial Boundary
 
@@ -739,7 +747,7 @@ Every part has a job. Together, they create control.
 
 **Outcome headline**
 
-Never lose the customer story.
+Keep the customer story within reach.
 
 **Copy**
 
@@ -799,7 +807,7 @@ Use the shared customer and project context to support clear, timely communicati
 
 **Outcome headline**
 
-Let the system help carry the administrative load.
+Reduce the work that should not require your full attention.
 
 **Copy**
 

@@ -1,7 +1,9 @@
 # TULBOXX Pricing
 
-**Version:** 1.1<br>
-**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Pricing  
 **Recommended route:** `/pricing`  
 **Primary CTA:** Start Free<br>
@@ -141,13 +143,13 @@ Start with real work. Decide from experience.
 
 **Headline**
 
-Generate your first 5 estimates free.
+Generate your first 5 estimates free. Then decide.
 
 **Supporting copy**
 
-No credit card required. Use TULBOXX for the work directly in front of you, then continue for $39 per month with every feature included.
+No credit card required. Start with real work and see how TULBOXX fits the way you estimate.
 
-Join while Ground Floor enrollment is open, and that $39 monthly rate stays locked for the life of your active subscription.
+When you are ready to continue, the Ground Floor Rate is $39 per month with every feature included. Join while enrollment is open, and that monthly rate stays locked for the life of your active subscription.
 
 **Primary CTA**
 
@@ -173,7 +175,7 @@ Make the free-to-paid path understandable within seconds.
 
 ## Offer Facts
 
-- First 5 estimates free
+- First 5 AI-assisted estimate generations free
 - No credit card required to start
 - $39 per month after the free estimate experience
 - All current features included
@@ -213,7 +215,7 @@ Contractors and service business owners who want to get in early and grow with T
 
 **Value statement**
 
-Run your service business with every TULBOXX feature included at one straightforward monthly rate.
+Get the whole TULBOXX platform—every current feature and every future TULBOXX feature added as the platform grows—at one straightforward monthly rate.
 
 **Includes**
 
@@ -248,7 +250,7 @@ Use one prominent offer card. The visual emphasis should come from clarity and t
 
 ## Headline
 
-Everything included should help the business feel more under control.
+Everything included. One business moving forward.
 
 ## Purpose
 
@@ -314,7 +316,7 @@ The price is only one side of the decision.
 
 **Headline**
 
-What is disconnected admin already costing the business?
+What is disconnected admin already costing your business?
 
 **Body copy**
 
@@ -444,7 +446,7 @@ Start with your next estimate.
 
 **Body copy**
 
-Generate your first 5 estimates with TULBOXX before deciding whether to continue at the Ground Floor Rate.
+Start with real work, generate your first 5 estimates free, and decide from experience whether TULBOXX belongs in your business.
 
 **Primary CTA**
 
