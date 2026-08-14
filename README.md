@@ -54,6 +54,7 @@ Each page blueprint defines the page's purpose, narrative sequence, public-copy 
 
 - `VISUAL_STORYBOARD.md` - coordinated image, product UI, and motion direction.
 - `PHOTOGRAPHY_DIRECTION.md` - canonical photographic art direction, generation rules, campaign continuity, and post-processing standard.
+- `assets/images/README.md` - image library, naming rules, approval status, alt text, and production notes.
 - `COMPONENT_LIBRARY.md` - reusable marketing component patterns.
 - `docs/TULBOXX_BRAND_STYLE_GUIDE.pdf` - source reference for visual styling, typography, and color.
 

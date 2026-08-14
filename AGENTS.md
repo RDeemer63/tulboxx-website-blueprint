@@ -273,6 +273,8 @@ No unnecessary animations.
 
 `PHOTOGRAPHY_DIRECTION.md` is the canonical standard for photographic art direction, image-generation prompts, campaign continuity, cropping, and post-processing. Read it before generating, selecting, editing, or compositing any marketing photograph.
 
+Use `assets/images/README.md` as the image manifest. Save candidates under `assets/images/review/{page}/`, move only explicitly approved masters into `assets/images/approved/{page}/`, and record the filename, status, source, purpose, alt text, and production notes for every approved asset.
+
 Prioritize:
 
 - Real contractors
