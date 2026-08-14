@@ -81,20 +81,29 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 ## Free Entry Experience
 
 - Public CTA: Start Free
-- Allowance: First 5 AI-assisted estimate generations
+- Allowance: First 5 AI-assisted estimates with send, share, and download access
 - Credit card: Not required
 - Positioning: A limited product experience, not a free plan
-- Paid next step: Ground Floor Rate when the user selects Generate Estimate on estimate six
+- Paid next step: Upgrade to Pro after TULBOXX creates estimate six and locks its send, share, and download actions
 
 ## Paid Ground Floor Offer
 
 - Public offer name: Ground Floor Rate
+- Product plan name: Pro
 - Price: $39 per month
+- Checkout price: Confirmed
 - Enrollment: Currently open
 - Rate protection: $39 per month for the life of the active subscription
 - Feature access: All current TULBOXX features included
 - Future access: Future TULBOXX features included as the platform grows
 - Tiering: No feature tiers for Ground Floor customers
+
+## Naming and Member Recognition
+
+- **Upgrade to Pro** remains correct inside the product during and after Ground Floor enrollment.
+- **Ground Floor Rate** describes the launch price and the cohort that secured it.
+- A future account badge may recognize Ground Floor members and strengthen their sense of connection to the product.
+- Do not present the badge as a current capability until it is implemented.
 
 ## Canonical Funnel
 
@@ -110,12 +119,12 @@ Continue at the $39/month Ground Floor Rate
 
 ## Confirmed Free-Estimate Entitlement Behavior
 
-- Building, editing, or saving an estimate draft does not consume a free use.
-- A free use is consumed when the user selects Generate Estimate and that action invokes AI-assisted estimate generation.
-- The first 5 AI-assisted estimate generations are free.
-- After five generations, the user may still build and edit estimate six.
-- When the user selects Generate Estimate on estimate six, show the Ground Floor paywall before another AI generation occurs.
-- Do not block the user merely for opening, building, editing, or saving estimate six.
+- Entering or editing estimate details does not count until TULBOXX creates the estimate.
+- The first 5 AI-assisted estimates can be created, sent, shared, and downloaded free.
+- TULBOXX creates estimate six so the contractor can see the completed work.
+- Estimate six is locked for sending, sharing, and downloading until the contractor upgrades to Pro.
+- The upgrade wall should make clear that the estimate is ready and Pro unlocks putting it to use.
+- Do not move the wall in front of AI generation; showing the completed estimate is part of the intended value experience.
 
 # Operational Terms to Confirm Before Implementation
 
@@ -175,7 +184,7 @@ Make the free-to-paid path understandable within seconds.
 
 ## Offer Facts
 
-- First 5 AI-assisted estimate generations free
+- First 5 AI-assisted estimates free to create, send, share, and download
 - No credit card required to start
 - $39 per month after the free estimate experience
 - All current features included
@@ -390,7 +399,7 @@ Questions worth answering before you start.
 
 ### What counts as one of my five free estimates?
 
-Building or saving a draft does not count. A free use is consumed when you select Generate Estimate and TULBOXX invokes AI to generate it. You can build estimate six, but selecting Generate Estimate opens the Ground Floor paywall before another AI generation.
+Entering or editing the details does not count by itself. Your first five AI-assisted estimates can be created, sent, shared, and downloaded free. TULBOXX will create estimate six so you can see the completed work; upgrading to Pro unlocks sending, sharing, and downloading it.
 
 ### Is TULBOXX difficult to set up?
 
@@ -496,9 +505,9 @@ Keep this section quiet and confident. Summarize the established value. Do not a
 Maintain one approved source of truth containing:
 
 - Public offer name
-- Five free AI-assisted estimate generations
-- Generate Estimate invoking AI as the event that consumes a free use
-- Estimate-six drafting access and the Generate Estimate paywall trigger
+- Five free AI-assisted estimates with send, share, and download access
+- Estimate creation as the event that advances the free allowance
+- Estimate-six generation followed by locked send, share, and download actions
 - No-credit-card requirement for the free entry experience
 - Conversion point from the free experience to paid access
 - Price, currency, and monthly billing period
@@ -542,7 +551,7 @@ Track:
 - Start Free CTA selection
 - First AI-assisted estimate generated
 - Free-generation allowance progression
-- Estimate-six Generate Estimate paywall view
+- Estimate-six locked preview and upgrade-wall view
 - Free-to-Ground-Floor conversion
 - Included-feature engagement
 - ROI-calculator use
@@ -592,7 +601,7 @@ The page is ready when:
 - FAQs answer real objections directly.
 - Mobile offer details are usable.
 - Ground Floor terms match checkout and subscription behavior.
-- Drafting estimate six remains available, and its Generate Estimate action triggers the paywall before AI generation.
+- TULBOXX creates estimate six, and its send, share, and download actions remain locked until the contractor upgrades to Pro.
 - The page creates confidence without pressure.
 
 ---

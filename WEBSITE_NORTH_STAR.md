@@ -272,9 +272,9 @@ Confidence is built one question at a time.
 
 **Start Free** should feel like the natural next step, not a leap of faith.
 
-Visitors can begin without a credit card and generate their first five AI-assisted estimates free. Building, editing, and saving an estimate does not consume a generation. They can build a sixth estimate; the upgrade decision appears only when they select **Generate Estimate**, before AI runs.
+Visitors can begin without a credit card and generate their first five AI-assisted estimates free. They can send, share, and download those estimates as part of the free experience. TULBOXX also creates estimate six so the contractor can see the value of the completed work; upgrading to Pro unlocks sending, sharing, and downloading it.
 
-If they continue, the current offer is the **Ground Floor Rate**: $39 per month with every feature included. The monthly rate remains protected for the life of the active subscription.
+If they continue, the current offer is the **Ground Floor Rate**: Pro access for $39 per month with every feature included. The monthly rate remains protected for the life of the active subscription. Ground Floor identifies the offer and member cohort; Pro remains the product plan name.
 
 This sequence matters because it lets the contractor judge TULBOXX through real work before making a purchase decision. Do not add manufactured urgency, hidden restrictions, or competing plans to the launch journey.
 

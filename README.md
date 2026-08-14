@@ -60,7 +60,7 @@ Each page blueprint defines the page's purpose, narrative sequence, public-copy 
 
 The core launch journey from Home through Pricing is documented. Resources, Customer Stories, and About remain intentional later-phase pages; they should be developed when approved content, evidence, and business requirements are available.
 
-The Start Free offer is established: no credit card is required; the first five AI-assisted estimate generations are free; drafting does not consume a generation; and the paywall appears when a user selects **Generate Estimate** on the sixth estimate, before AI runs. The current paid offer is the $39-per-month Ground Floor Rate with every feature included and the monthly rate protected for the life of the active subscription. The final signup route, account-creation steps, and unresolved generation edge cases still require implementation decisions; `PRICING.md` is the source of truth.
+The Start Free offer is established: no credit card is required; the first five AI-assisted estimates can be created, sent, shared, and downloaded free; and TULBOXX creates estimate six before protecting its send, share, and download actions with the upgrade wall. The current paid offer is Pro at the confirmed $39-per-month Ground Floor Rate, with every feature included and the monthly rate protected for the life of the active subscription. Ground Floor names the offer and member cohort; Pro remains the product plan name. The final signup route, account-creation steps, and remaining estimate-count edge cases still require implementation decisions; `PRICING.md` is the source of truth.
 
 ## Handoff to production
 

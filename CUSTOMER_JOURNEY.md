@@ -292,7 +292,7 @@ Not pressured.
 
 The visitor should not have to buy on belief alone.
 
-Start Free lets them use real work to judge the value: no credit card, with the first five AI-assisted estimate generations free. Drafting and editing do not use a generation. If they build a sixth estimate, the upgrade decision appears only when they select **Generate Estimate**, before AI runs.
+Start Free lets them use real work to judge the value: no credit card, with the first five AI-assisted estimates available to create, send, share, and download free. If they create estimate six, TULBOXX completes the work before the upgrade wall protects the actions that put that estimate to use.
 
 Visitors should feel:
 
@@ -304,7 +304,7 @@ Not...
 
 That difference matters.
 
-The paid decision should be equally clear: one Ground Floor Rate at $39 per month, every feature included, with the monthly rate protected for the life of the active subscription.
+The paid decision should be equally clear: upgrade to Pro at the Ground Floor Rate of $39 per month, every feature included, with the monthly rate protected for the life of the active subscription.
 
 No manufactured countdown. No surprise paywall before the value-producing action. No unnecessary plan puzzle.
 
