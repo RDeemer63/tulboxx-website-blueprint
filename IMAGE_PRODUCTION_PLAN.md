@@ -70,7 +70,7 @@ The nine source sets below can support many page-level asset IDs. Generate a new
 | `PHOTO-C02` | Three moments of administrative friction: messages in the truck, scattered field notes, and paperwork after hours | `HOME-REALITY-02`, `WHY-SECOND-JOB-02` | Desktop master approved | Desktop triptych, three mobile-ready panels or source compositions, optimized exports |
 | `PHOTO-C03` | Contractor discussing drainage or grading work with a homeowner at the property | `WHY-NATURAL-WORK-05`, `FEATURES-ESTIMATING-04` | Needed | Wide environmental scene, closer interaction, mobile crop |
 | `PHOTO-C04` | Contractor photographing the site and recording a rough voice note before returning to the work | `HOME-AI-06`, `PLATFORM-CAPTURE-03`, `WORKFLOW-CAPTURE-03` | Desktop two-panel master approved | Separate mobile-ready panels, optimized exports, real UI captured separately |
-| `PHOTO-C05` | Contractor using TULBOXX one-handed beside equipment or from a parked truck between tasks | `HOME-FIELD-07`, `WHY-FIELD-07`, `FEATURES-MOBILE-06` | Needed | Environmental desktop, mobile portrait, close hand-and-device detail |
+| `PHOTO-C05` | Contractor using TULBOXX one-handed beside equipment or from a parked truck between tasks | `HOME-FIELD-07`, `WHY-FIELD-07`, `FEATURES-MOBILE-06` | Candidate V1 under review | Approve desktop candidate, then produce mobile portrait and close hand-and-device detail |
 | `PHOTO-C06` | Contractor handling a customer call from a parked truck with the active job visible outside | `WORKFLOW-CALL-02`, `FEATURES-CUSTOMERS-02` | Needed | Environmental truck scene, closer call moment, mobile crop |
 | `PHOTO-C07` | Contractor reviewing the day's work with one or two crew members beside the demonstration project | `WHY-CAPACITY-08`, `WORKFLOW-JOB-06`, `FEATURES-JOBS-05` | Needed | Crew interaction, active-work context, safe mobile crop |
 | `PHOTO-C08` | Contractor reviewing a received payment or business update from the parked truck after the fieldwork | `HOME-OUTCOMES-05`, `FEATURES-PAYMENTS-08` | Needed | Truck interior or bedside view, clean device area for approved UI, mobile crop |
@@ -313,7 +313,7 @@ This table assigns every section-level asset ID a primary production type and re
 ## Phase 1 — Complete the Homepage Photography Story
 
 1. Produce mobile compositions for `PHOTO-C01` and `PHOTO-C02`.
-2. Generate and approve `PHOTO-C05` and `PHOTO-C09`.
+2. Approve `PHOTO-C05`, then generate and approve `PHOTO-C09`.
 3. Capture the minimum homepage app set: `APP-01`, `APP-03`, `APP-06`, `APP-07`, `APP-12`, and `APP-14`.
 4. Produce `TRADE-02`, `TRADE-03`, and `TRADE-04` only when the Solutions preview is ready.
 5. Keep `HOME-PROOF-08` in an honest pre-proof state until `PROOF-01` exists.
