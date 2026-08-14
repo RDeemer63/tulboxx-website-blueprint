@@ -116,6 +116,17 @@ photo-c04-field-capture-desktop-master.png
 - **Alt text:** Excavation contractor checks his phone while seated in the open doorway of his parked work truck with equipment visible behind him.
 - **Production notes:** Perspective-map only a real approved TULBOXX mobile capture onto the white phone screen, preserving the phone angle, hand overlap, realistic glare, brightness, and device edges. This is an alternate `PHOTO-C05` composition, not the customer-call scene required for `PHOTO-C06`. The final treatment must remain unmistakably parked and must never imply phone use while driving.
 
+## `PHOTO-C07`
+
+- **File:** [`approved/shared/photo-c07-crew-coordination-desktop-master.png`](approved/shared/photo-c07-crew-coordination-desktop-master.png)
+- **Status:** Approved desktop master
+- **Dimensions:** 1536 × 1024
+- **Source:** AI-generated campaign photography; none of the generated subjects is a real customer, employee, or testimonial participant
+- **Purpose:** Show a small excavation crew reviewing job information together beside the active project.
+- **Reused by:** `WHY-CAPACITY-08`, `WORKFLOW-JOB-06`, `FEATURES-JOBS-05`, and potentially `SOLUTIONS-STAGE-04`
+- **Alt text:** Three excavation crew members review job details on a phone beside their work truck and excavator.
+- **Production notes:** Keep the interaction practical and collaborative rather than presenting the group as a posed team portrait. If the phone screen is visible at the final display size, replace it with a real approved TULBOXX mobile capture while preserving the hand overlap, viewing angle, glare, brightness, and device edges. Produce a mobile crop that retains all three crew members and enough truck or equipment context to establish the jobsite.
+
 ## `PHOTO-C08`
 
 - **File:** [`approved/shared/photo-c08-payment-review-desktop-master.png`](approved/shared/photo-c08-payment-review-desktop-master.png)
