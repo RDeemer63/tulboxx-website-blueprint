@@ -2,7 +2,7 @@
 
 This directory stores marketing-image masters, review candidates, approval status, production notes, and final alt text.
 
-`PHOTOGRAPHY_DIRECTION.md` governs how photography is generated, selected, edited, cropped, and approved. `VISUAL_STORYBOARD.md` and the page blueprints determine what each asset must communicate.
+`IMAGE_PRODUCTION_PLAN.md` defines the complete production inventory and reuse plan. `PHOTOGRAPHY_DIRECTION.md` governs how photography is generated, selected, edited, cropped, and approved. `VISUAL_STORYBOARD.md` and the page blueprints determine what each asset must communicate.
 
 ---
 

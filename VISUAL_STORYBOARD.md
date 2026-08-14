@@ -1175,6 +1175,7 @@ Every visual should reinforce that truth.
 * `WEBSITE_SITEMAP.md`
 * `HOME.md`
 * `PHOTOGRAPHY_DIRECTION.md`
+* `IMAGE_PRODUCTION_PLAN.md`
 * `WHY_TULBOXX.md`
 * `PLATFORM.md`
 * `HOW_IT_WORKS.md`
