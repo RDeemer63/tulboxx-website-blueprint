@@ -6,7 +6,7 @@
 **Recommended route:** `/features`  
 **Primary CTA:** See Solutions  
 **Secondary CTA:** Start Free  
-**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** How It Works  
 **Next page in the story:** Solutions
 
@@ -207,7 +207,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1058,7 +1058,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1314,7 +1314,8 @@ Reuse approved imagery when it strengthens continuity. Generate a new asset only
 - Approve fictional demonstration data.
 - Capture approved product UI.
 - Confirm the Start Free route and account-creation flow.
-- Confirm how the five-estimate allowance is counted and displayed in the product.
+- Verify that a free use is consumed only when Generate Estimate invokes AI.
+- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
 - Confirm brand assets, accent colors, and production fonts.
 
 ---

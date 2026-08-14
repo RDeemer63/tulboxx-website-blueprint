@@ -6,7 +6,7 @@
 **Recommended route:** `/`  
 **Primary CTA:** See How It Works  
 **Secondary CTA:** Start Free  
-**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Next page in the story:** Why TULBOXX
 
 ---
@@ -175,7 +175,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -853,7 +853,7 @@ See How It Works
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1108,7 +1108,8 @@ Do not optimize for clicks at the expense of clarity or trust.
 # Content and Proof Required Before Launch
 
 - Confirm the Start Free route and account-creation flow.
-- Confirm how the five-estimate allowance is counted and displayed in the product.
+- Verify that a free use is consumed only when Generate Estimate invokes AI.
+- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
 - Confirm the product terms used in workflow screens.
 - Capture approved product screens for desktop and mobile.
 - Create fictional demonstration data for product visuals.
@@ -1136,7 +1137,7 @@ The homepage is ready for production when:
 - The mobile experience preserves the story instead of merely stacking desktop sections.
 - Every CTA uses one of the two approved actions.
 - The page naturally encourages the visitor to see how TULBOXX works or start free.
-- Every Start Free reassurance accurately states the five-estimate limit and no-credit-card requirement.
+- Every Start Free reassurance accurately states the five-generation limit and no-credit-card requirement.
 - Accessibility, performance, and reduced-motion requirements are met.
 
 ---

@@ -6,7 +6,7 @@
 **Recommended route:** `/how-it-works`  
 **Primary CTA:** Explore Features  
 **Secondary CTA:** Start Free  
-**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Platform  
 **Next page in the story:** Features
 
@@ -197,7 +197,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -933,7 +933,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1175,7 +1175,8 @@ Reuse source photography and product captures across the page. The visitor shoul
 - Produce approved project photography or realistic generated imagery.
 - Capture desktop and mobile product states.
 - Confirm the Start Free route and account-creation flow.
-- Confirm how the five-estimate allowance is counted and displayed in the product.
+- Verify that a free use is consumed only when Generate Estimate invokes AI.
+- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
 - Confirm final brand assets, accent colors, and production fonts.
 
 Any unsupported step must be revised, removed, or explicitly approved as future-state communication before launch.

@@ -6,7 +6,7 @@
 **Recommended route:** `/why-tulboxx`  
 **Primary CTA:** Explore the Platform  
 **Secondary CTA:** Start Free<br>
-**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Home  
 **Next page in the story:** Platform
 
@@ -145,7 +145,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -724,7 +724,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 

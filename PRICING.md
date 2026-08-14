@@ -5,7 +5,7 @@
 **Page:** Pricing  
 **Recommended route:** `/pricing`  
 **Primary CTA:** Start Free<br>
-**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Solutions  
 **Next step in the story:** Create the first free estimate
 
@@ -13,7 +13,7 @@
 
 # Page Purpose
 
-The Pricing page helps a visitor understand the complete path: create the first 5 estimates free with no credit card, experience the product, then continue at the $39-per-month Ground Floor Rate.
+The Pricing page helps a visitor understand the complete path: generate the first 5 estimates free with no credit card, experience the product, then continue at the $39-per-month Ground Floor Rate.
 
 By this point, the visitor should understand the philosophy, platform, workflow, features, and relevance. Pricing should reduce uncertainty—not restart the sales pitch.
 
@@ -37,7 +37,7 @@ The page must also answer:
 
 # Desired Belief
 
-> I can create my first 5 estimates free with no credit card, then continue with every TULBOXX feature for $39 per month at a rate protected for the life of my active subscription.
+> I can generate my first 5 estimates free with no credit card, then continue with every TULBOXX feature for $39 per month at a rate protected for the life of my active subscription.
 
 ---
 
@@ -49,7 +49,7 @@ TULBOXX Pricing | Get the Ground Floor Rate
 
 ## Recommended Meta Description
 
-Create your first 5 estimates free with no credit card. Continue with every TULBOXX feature for $39 per month and keep your Ground Floor Rate while your subscription stays active.
+Generate your first 5 estimates free with no credit card. Continue with every TULBOXX feature for $39 per month and keep your Ground Floor Rate while your subscription stays active.
 
 ## Social Direction
 
@@ -79,10 +79,10 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 ## Free Entry Experience
 
 - Public CTA: Start Free
-- Allowance: First 5 estimates
+- Allowance: First 5 AI-assisted estimate generations
 - Credit card: Not required
 - Positioning: A limited product experience, not a free plan
-- Paid next step: Ground Floor Rate after the five-estimate experience
+- Paid next step: Ground Floor Rate when the user selects Generate Estimate on estimate six
 
 ## Paid Ground Floor Offer
 
@@ -99,12 +99,21 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 ```text
 Start Free
     ↓
-Create the first 5 estimates
+Generate the first 5 estimates
     ↓
 Experience TULBOXX with no credit card required
     ↓
 Continue at the $39/month Ground Floor Rate
 ```
+
+## Confirmed Free-Estimate Entitlement Behavior
+
+- Building, editing, or saving an estimate draft does not consume a free use.
+- A free use is consumed when the user selects Generate Estimate and that action invokes AI-assisted estimate generation.
+- The first 5 AI-assisted estimate generations are free.
+- After five generations, the user may still build and edit estimate six.
+- When the user selects Generate Estimate on estimate six, show the Ground Floor paywall before another AI generation occurs.
+- Do not block the user merely for opening, building, editing, or saving estimate six.
 
 # Operational Terms to Confirm Before Implementation
 
@@ -114,11 +123,11 @@ The public copy contains no placeholders, but checkout and legal implementation 
 - Taxes and regional availability
 - Exact cancellation, failed-payment, pause, and reinstatement rules
 - Included users and any future additional-user charges
-- What action counts as creating one of the five estimates
 - How the remaining estimate allowance is displayed
-- What happens when the fifth estimate is created
 - What product access and data access remain before subscription
 - Checkout and onboarding mechanics after the free experience
+- Whether a failed, canceled, or retried AI generation consumes a free use
+- How duplicate, deleted, and regenerated estimates affect the allowance
 
 ---
 
@@ -132,7 +141,7 @@ Start with real work. Decide from experience.
 
 **Headline**
 
-Create your first 5 estimates free.
+Generate your first 5 estimates free.
 
 **Supporting copy**
 
@@ -146,7 +155,7 @@ Start Free
 
 **Support line**
 
-First 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -225,7 +234,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -377,6 +386,10 @@ Questions worth answering before you start.
 
 ## Required Topics
 
+### What counts as one of my five free estimates?
+
+Building or saving a draft does not count. A free use is consumed when you select Generate Estimate and TULBOXX invokes AI to generate it. You can build estimate six, but selecting Generate Estimate opens the Ground Floor paywall before another AI generation.
+
 ### Is TULBOXX difficult to set up?
 
 Answer with the confirmed onboarding process, expected effort, available assistance, and what the customer must prepare.
@@ -431,7 +444,7 @@ Start with your next estimate.
 
 **Body copy**
 
-Create up to 5 estimates with TULBOXX before deciding whether to continue at the Ground Floor Rate.
+Generate your first 5 estimates with TULBOXX before deciding whether to continue at the Ground Floor Rate.
 
 **Primary CTA**
 
@@ -481,7 +494,9 @@ Keep this section quiet and confident. Summarize the established value. Do not a
 Maintain one approved source of truth containing:
 
 - Public offer name
-- Free-estimate allowance and the exact event that consumes one estimate
+- Five free AI-assisted estimate generations
+- Generate Estimate invoking AI as the event that consumes a free use
+- Estimate-six drafting access and the Generate Estimate paywall trigger
 - No-credit-card requirement for the free entry experience
 - Conversion point from the free experience to paid access
 - Price, currency, and monthly billing period
@@ -523,8 +538,9 @@ Existing Ground Floor customers retain their $39 monthly rate and all-feature ac
 Track:
 
 - Start Free CTA selection
-- First estimate created
-- Five-estimate allowance progression
+- First AI-assisted estimate generated
+- Free-generation allowance progression
+- Estimate-six Generate Estimate paywall view
 - Free-to-Ground-Floor conversion
 - Included-feature engagement
 - ROI-calculator use
@@ -564,7 +580,7 @@ Do not manipulate defaults solely to increase short-term conversion.
 The page is ready when:
 
 - Every price and term is approved.
-- Visitors understand that they can create their first 5 estimates free with no credit card.
+- Visitors understand that they can generate their first 5 estimates free with no credit card.
 - The page never implies an unlimited free plan.
 - Visitors understand the $39 Ground Floor Rate within seconds.
 - Billing units and commitments are unambiguous.
@@ -574,7 +590,7 @@ The page is ready when:
 - FAQs answer real objections directly.
 - Mobile offer details are usable.
 - Ground Floor terms match checkout and subscription behavior.
-- The estimate allowance and free-to-paid transition match product behavior.
+- Drafting estimate six remains available, and its Generate Estimate action triggers the paywall before AI generation.
 - The page creates confidence without pressure.
 
 ---

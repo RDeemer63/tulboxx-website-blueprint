@@ -6,7 +6,7 @@
 **Recommended route:** `/solutions`  
 **Primary CTA:** View Pricing  
 **Secondary CTA:** Start Free  
-**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Features  
 **Next page in the story:** Pricing
 
@@ -110,7 +110,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -542,7 +542,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -676,7 +676,8 @@ Research should improve accuracy, not produce stereotypes. A trade page should b
 - Obtain expert review for trade language and imagery.
 - Confirm all customer proof and permissions.
 - Confirm the Pricing and Start Free routes.
-- Confirm how the five-estimate allowance is counted and displayed in the product.
+- Verify that a free use is consumed only when Generate Estimate invokes AI.
+- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
 - Approve generated photography and product composites.
 
 ---

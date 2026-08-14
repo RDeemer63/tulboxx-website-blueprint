@@ -6,7 +6,7 @@
 **Recommended route:** `/platform`  
 **Primary CTA:** See How It Works  
 **Secondary CTA:** Start Free  
-**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Why TULBOXX  
 **Next page in the story:** How It Works
 
@@ -156,7 +156,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -870,7 +870,7 @@ Start Free
 
 **CTA support line**
 
-Create your first 5 estimates free. No credit card required.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1095,7 +1095,8 @@ Reuse the same source captures across sections when they explain different parts
 - Approve the fictional demonstration project and all data.
 - Capture approved desktop and mobile product states.
 - Confirm the Start Free route and account-creation flow.
-- Confirm how the five-estimate allowance is counted and displayed in the product.
+- Verify that a free use is consumed only when Generate Estimate invokes AI.
+- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
 - Confirm final accent colors, logos, and production fonts.
 
 Any capability that is aspirational must be removed from launch copy or clearly separated into approved future-state communication.
