@@ -23,7 +23,7 @@ It also identifies visuals that should be built as responsive HTML, CSS, SVG, or
 ## At a Glance
 
 - **66** section-level asset IDs are accounted for.
-- **9** reusable contractor-photography source sets cover the recurring excavation story; **4** desktop masters are already approved.
+- **9** reusable contractor-photography source sets cover the recurring excavation story; **6** source sets now have approved desktop masters.
 - **17** reusable product-capture sets cover the connected customer-to-payment story.
 - **4** trade environments establish excavation, landscaping, painting, and HVAC relevance.
 - **3** company-stage contexts support owner-operator, small-team, and future growing-company stories.
@@ -68,12 +68,12 @@ The nine source sets below can support many page-level asset IDs. Generate a new
 |---|---|---|---|---|
 | `PHOTO-C01` | Contractor checking his phone beside the muddy work truck at an active residential grading site | `HOME-HERO-01`, `WHY-HERO-01` | Desktop master approved | Desktop master, dedicated mobile portrait, optimized exports |
 | `PHOTO-C02` | Three moments of administrative friction: messages in the truck, scattered field notes, and paperwork after hours | `HOME-REALITY-02`, `WHY-SECOND-JOB-02` | Desktop master approved | Desktop triptych, three mobile-ready panels or source compositions, optimized exports |
-| `PHOTO-C03` | Contractor discussing drainage or grading work with a homeowner at the property | `WHY-NATURAL-WORK-05`, `FEATURES-ESTIMATING-04` | Needed | Wide environmental scene, closer interaction, mobile crop |
+| `PHOTO-C03` | Contractor discussing drainage or grading work with a homeowner at the property | `WHY-NATURAL-WORK-05`, `FEATURES-ESTIMATING-04` | Desktop master approved | Add real mobile UI to the blank screen, produce mobile crop, optimize exports |
 | `PHOTO-C04` | Contractor photographing the site and recording a rough voice note before returning to the work | `HOME-AI-06`, `PLATFORM-CAPTURE-03`, `WORKFLOW-CAPTURE-03` | Desktop two-panel master approved | Separate mobile-ready panels, optimized exports, real UI captured separately |
 | `PHOTO-C05` | Contractor using TULBOXX one-handed beside equipment or from a parked truck between tasks | `HOME-FIELD-07`, `WHY-FIELD-07`, `FEATURES-MOBILE-06` | Desktop master approved | Produce mobile portrait, close hand-and-device detail, optimized exports, and real UI composite |
 | `PHOTO-C06` | Contractor handling a customer call from a parked truck with the active job visible outside | `WORKFLOW-CALL-02`, `FEATURES-CUSTOMERS-02` | Needed | Environmental truck scene, closer call moment, mobile crop |
 | `PHOTO-C07` | Contractor reviewing the day's work with one or two crew members beside the demonstration project | `WHY-CAPACITY-08`, `WORKFLOW-JOB-06`, `FEATURES-JOBS-05` | Needed | Crew interaction, active-work context, safe mobile crop |
-| `PHOTO-C08` | Contractor reviewing a received payment or business update from the parked truck after the fieldwork | `HOME-OUTCOMES-05`, `FEATURES-PAYMENTS-08` | Needed | Truck interior or bedside view, clean device area for approved UI, mobile crop |
+| `PHOTO-C08` | Contractor reviewing a received payment or business update from the parked truck after the fieldwork | `HOME-OUTCOMES-05`, `FEATURES-PAYMENTS-08` | Desktop master approved | Add real mobile UI to the blank screen, produce mobile crop, optimize exports |
 | `PHOTO-C09` | Contractor closing the truck or looking over completed work as the day ends calmly | `HOME-OUTCOMES-05`, `HOME-CTA-10`, `WHY-CAPACITY-08`, `WHY-CLOSING-09` | Needed | Wide closing image with copy-safe space, portrait variant, completed-work detail |
 
 ## Continuity Rules
@@ -92,8 +92,10 @@ The nine source sets below can support many page-level asset IDs. Generate a new
 |---|---|---|
 | `HOME-HERO-01` | `assets/images/approved/home/home-hero-01-desktop-master.png` | Dedicated mobile portrait and optimized production exports |
 | `HOME-REALITY-02` | `assets/images/approved/home/home-reality-02-desktop-master.png` | Mobile-ready individual panels and optimized production exports |
+| `PHOTO-C03` | `assets/images/approved/shared/photo-c03-customer-conversation-desktop-master.png` | Real mobile UI composite, dedicated mobile crop, and optimized production exports |
 | `PHOTO-C04` | `assets/images/approved/shared/photo-c04-field-capture-desktop-master.png` | Mobile-ready individual panels, badge cleanup if required, and optimized production exports |
 | `PHOTO-C05` | `assets/images/approved/shared/photo-c05-field-use-desktop-master.png` | Dedicated mobile portrait, close hand-and-device detail, real UI composite, and optimized production exports |
+| `PHOTO-C08` | `assets/images/approved/shared/photo-c08-payment-review-desktop-master.png` | Real mobile UI composite, dedicated mobile crop, and optimized production exports |
 
 ---
 
@@ -324,7 +326,7 @@ This table assigns every section-level asset ID a primary production type and re
 1. Create the complete Morgan Lee demonstration-data fixture.
 2. Capture `APP-02` through `APP-17` in workflow order.
 3. Build the Platform and How It Works sequences from the shared capture library.
-4. Generate `PHOTO-C03`, `PHOTO-C06`, and `PHOTO-C07` where photography is required to connect product behavior to real work.
+4. Generate `PHOTO-C06` and `PHOTO-C07` where photography is required to connect product behavior to real work.
 
 ## Phase 3 — Expand Relevance
 

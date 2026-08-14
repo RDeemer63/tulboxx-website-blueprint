@@ -72,6 +72,17 @@ photo-c04-field-capture-desktop-master.png
 - **Alt text:** Three moments in an excavation contractor's day: checking customer messages in his truck, tracking job details in a notebook, and completing paperwork at home.
 - **Production notes:** Keep the headline, panel labels, and descriptions in accessible HTML rather than compositing them into the image. On mobile, present the moments as three separate panels or intentionally cropped sources rather than shrinking the full triptych. Retouch or replace any phone or paperwork detail that becomes legible enough to resemble synthetic customer information. Keep the after-hours scene thoughtful rather than dramatically exhausted. Do not present the subject as a real TULBOXX customer.
 
+## `PHOTO-C03`
+
+- **File:** [`approved/shared/photo-c03-customer-conversation-desktop-master.png`](approved/shared/photo-c03-customer-conversation-desktop-master.png)
+- **Status:** Approved desktop master with blank compositing screen
+- **Dimensions:** 1536 × 1024
+- **Source:** AI-generated campaign photography; neither generated subject is a real customer, employee, or testimonial participant
+- **Purpose:** Show the contractor discussing work with a homeowner and reviewing project or estimate information at the property.
+- **Reused by:** `WHY-NATURAL-WORK-05` and `FEATURES-ESTIMATING-04`
+- **Alt text:** Excavation contractor shows project details on his phone to a homeowner beside the customer's driveway.
+- **Production notes:** Perspective-map only a real approved TULBOXX mobile capture onto the white phone screen, preserving realistic glare, brightness, and device edges. Do not use this generated homeowner as customer proof. Produce a mobile crop that preserves both people, the phone, the property, and the parked work truck.
+
 ## `PHOTO-C04`
 
 - **File:** [`approved/shared/photo-c04-field-capture-desktop-master.png`](approved/shared/photo-c04-field-capture-desktop-master.png)
@@ -94,6 +105,17 @@ photo-c04-field-capture-desktop-master.png
 - **Reused by:** `HOME-FIELD-07`, `WHY-FIELD-07`, and `FEATURES-MOBILE-06`
 - **Alt text:** Excavation contractor checks his phone from stable ground beside a muddy work truck while a drainage trench and excavator remain visible.
 - **Production notes:** Safety, identity, hands, phone, lighting, equipment context, and visible branding passed review. Capture or generate a dedicated mobile portrait and a closer hand-and-device detail. Composite only real approved TULBOXX UI. Do not present the subject as a real TULBOXX customer.
+
+## `PHOTO-C08`
+
+- **File:** [`approved/shared/photo-c08-payment-review-desktop-master.png`](approved/shared/photo-c08-payment-review-desktop-master.png)
+- **Status:** Approved desktop master with blank compositing screen
+- **Dimensions:** 1536 × 1024
+- **Source:** AI-generated campaign photography; not a real customer, employee, or testimonial
+- **Purpose:** Show the contractor reviewing a payment or business update safely from his parked work truck beside the jobsite.
+- **Reused by:** `HOME-OUTCOMES-05` and `FEATURES-PAYMENTS-08`
+- **Alt text:** Excavation contractor reviews a payment update on his phone while seated in his parked work truck beside the jobsite.
+- **Production notes:** Perspective-map only a real approved TULBOXX mobile capture onto the white phone screen, preserving realistic glare, brightness, and device edges. The final composition must remain unmistakably parked and must never imply phone use while driving. Produce a mobile crop and optimized production exports.
 
 ---
 
