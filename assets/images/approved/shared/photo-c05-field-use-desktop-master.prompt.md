@@ -1,10 +1,10 @@
-# `PHOTO-C05` Candidate V1 Generation Record
+# `PHOTO-C05` Approved Generation Record
 
 **Generator:** Codex built-in image-generation workflow
 
 **Use case:** Identity-preserving campaign-image revision
 
-**Edit target:** `/Users/rdeemer/Desktop/ChatGPT Image Aug 14, 2026, 09_18_52 AM.png`
+**Edit target:** User-provided trench-scene candidate `ChatGPT Image Aug 14, 2026, 09_18_52 AM.png`; rejected source not retained in the approved library
 
 **Identity and style reference:** `assets/images/approved/home/home-hero-01-desktop-master.png`
 
@@ -22,10 +22,11 @@ Constraints: Phone screen must be dark or unreadable for later real TULBOXX UI c
 Avoid: all logos, badges, manufacturer marks, vehicle trim lettering including TREMOR, company names, readable text, fake customer information, generated app UI, paperwork, watermarks, HDR, cinematic color grading, exaggerated sharpening, dramatic lighting, fashion posing, unsafe phone use, distorted hands, or extra fingers.
 ```
 
-## Review Notes
+## Approval Notes
 
 - Contractor now stands fully on compacted ground beside the parked truck.
 - Trench and drainage pipe remain clearly visible without implying phone use inside the excavation.
 - Vehicle branding from the edit target is absent.
 - Phone display remains unreadable for a later approved product composite.
-- Awaiting explicit visual approval before promotion to `approved/shared/`.
+- Approved by the user and Codex for the desktop campaign library.
+- Dedicated mobile and close hand-and-device compositions remain required.
