@@ -41,7 +41,7 @@ Visitors should leave believing:
 All work should follow this order.
 
 ```
-Product Vision
+Company Purpose and Product Philosophy
         ↓
 Website North Star
         ↓
@@ -119,7 +119,7 @@ Features only exist to support those outcomes.
 
 # Product Philosophy
 
-The website should reinforce the Product Vision.
+The website should reinforce the company purpose and product philosophy defined in `WHY.md` and this operating manual.
 
 Key principles include:
 
@@ -131,7 +131,7 @@ Key principles include:
 - AI organizes.
 - Contractors decide.
 
-Never contradict the Product Vision.
+Never contradict that product philosophy.
 
 ---
 
@@ -379,7 +379,7 @@ Before making any change, ask:
 1. Does this help contractors?
 2. Does it reduce confusion?
 3. Does it increase trust?
-4. Does it reinforce the Product Vision?
+4. Does it reinforce the company purpose and product philosophy?
 5. Would we still build this if no competitor had it?
 6. Is there a simpler solution?
 

@@ -494,7 +494,6 @@ Because contractors should be able to spend less time administering the work and
 
 ## Related Documents
 
-* `PRODUCT_VISION.md`
 * `WEBSITE_NORTH_STAR.md`
 * `AGENTS.md`
 * `BRAND_STRATEGY.md`
@@ -504,6 +503,6 @@ Because contractors should be able to spend less time administering the work and
 
 This document defines the emotional and philosophical reason TULBOXX exists.
 
-The canonical Product Vision governs how the product works.
+The product philosophy in `AGENTS.md` governs how the product works.
 
 This document governs why that work matters.
