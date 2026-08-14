@@ -1,22 +1,29 @@
 # TULBOXX Pricing
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Pricing  
 **Recommended route:** `/pricing`  
-**Primary CTA:** Lock In My Ground Floor Rate  
+**Primary CTA:** Start Free<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Solutions  
-**Next step in the story:** Ground Floor signup
+**Next step in the story:** Create the first free estimate
 
 ---
 
 # Page Purpose
 
-The Pricing page helps a visitor decide whether TULBOXX is worth the investment and whether to secure the current Ground Floor Rate.
+The Pricing page helps a visitor understand the complete path: generate the first 5 estimates free with no credit card, experience the product, then continue at the $39-per-month Ground Floor Rate.
 
 By this point, the visitor should understand the philosophy, platform, workflow, features, and relevance. Pricing should reduce uncertainty—not restart the sales pitch.
 
-The page must make the price, lifetime rate protection, included value, and next step easy to understand.
+The page must make the free entry point, paid price, lifetime rate protection, included value, and next step easy to understand.
+
+## Editorial Ownership
+
+This page owns the offer, value, terms, objections, and buying decision. It should summarize only enough product value to support the decision and must not restart the philosophy, platform, workflow, or feature sales story.
 
 ---
 
@@ -24,11 +31,15 @@ The page must make the price, lifetime rate protection, included value, and next
 
 > Is TULBOXX worth $39 per month, and should I get in on the ground floor?
 
+The page must also answer:
+
+> Can I experience enough of TULBOXX to make that decision without entering a credit card?
+
 ---
 
 # Desired Belief
 
-> I can get every TULBOXX feature for $39 per month and keep that rate for the life of my active subscription. I understand the value and know exactly what happens next.
+> I can generate my first 5 estimates free with no credit card, then continue with every TULBOXX feature for $39 per month at a rate protected for the life of my active subscription.
 
 ---
 
@@ -40,7 +51,7 @@ TULBOXX Pricing | Get the Ground Floor Rate
 
 ## Recommended Meta Description
 
-Get every TULBOXX feature for $39 per month and keep your Ground Floor Rate for the life of your active subscription.
+Generate your first 5 estimates free with no credit card. Continue with every TULBOXX feature for $39 per month and keep your Ground Floor Rate while your subscription stays active.
 
 ## Social Direction
 
@@ -56,6 +67,8 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 - Never hide essential differences in fine print.
 - Never label a plan “Most Popular” without real evidence or a deliberate recommendation rationale.
 - Use one primary CTA.
+- Use Start Free as the acquisition CTA. Do not make visitors choose between starting free and buying before they have experienced the product.
+- State the five-estimate limit anywhere the free offer is described in detail. Never imply an unlimited free plan.
 - Present one complete offer. Do not imply that Ground Floor customers receive a limited tier.
 - Use modeled ROI only with visible assumptions and disclaimers.
 - Answer real objections directly.
@@ -65,13 +78,55 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 
 # Confirmed Current Offer
 
+## Free Entry Experience
+
+- Public CTA: Start Free
+- Allowance: First 5 AI-assisted estimates with send, share, and download access
+- Credit card: Not required
+- Positioning: A limited product experience, not a free plan
+- Paid next step: Upgrade to Pro after TULBOXX creates estimate six and locks its send, share, and download actions
+
+## Paid Ground Floor Offer
+
 - Public offer name: Ground Floor Rate
+- Product plan name: Pro
 - Price: $39 per month
+- Billing cadence: Monthly only
+- Annual plan or annual discount: Not offered
+- Checkout price: Confirmed
 - Enrollment: Currently open
 - Rate protection: $39 per month for the life of the active subscription
 - Feature access: All current TULBOXX features included
 - Future access: Future TULBOXX features included as the platform grows
 - Tiering: No feature tiers for Ground Floor customers
+
+## Naming and Member Recognition
+
+- **Upgrade to Pro** remains correct inside the product during and after Ground Floor enrollment.
+- **Ground Floor Rate** describes the launch price and the cohort that secured it.
+- A future account badge may recognize Ground Floor members and strengthen their sense of connection to the product.
+- Do not present the badge as a current capability until it is implemented.
+
+## Canonical Funnel
+
+```text
+Start Free
+    ↓
+Generate the first 5 estimates
+    ↓
+Experience TULBOXX with no credit card required
+    ↓
+Continue at the $39/month Ground Floor Rate
+```
+
+## Confirmed Free-Estimate Entitlement Behavior
+
+- Entering or editing estimate details does not count until TULBOXX creates the estimate.
+- The first 5 AI-assisted estimates can be created, sent, shared, and downloaded free.
+- TULBOXX creates estimate six so the contractor can see the completed work.
+- Estimate six is locked for sending, sharing, and downloading until the contractor upgrades to Pro.
+- The upgrade wall should make clear that the estimate is ready and Pro unlocks putting it to use.
+- Do not move the wall in front of AI generation; showing the completed estimate is part of the intended value experience.
 
 # Operational Terms to Confirm Before Implementation
 
@@ -79,9 +134,13 @@ The public copy contains no placeholders, but checkout and legal implementation 
 
 - Whether payment-processing and other third-party transaction fees remain separate
 - Taxes and regional availability
-- Exact cancellation, failed-payment, pause, and reinstatement rules
+- Exact failed-payment, pause, and reinstatement rules
 - Included users and any future additional-user charges
-- Trial, credit-card, and onboarding mechanics, if applicable
+- How the remaining estimate allowance is displayed
+- What viewing, exporting, or recovery options remain after paid access ends
+- Checkout and onboarding mechanics after the free experience
+- Whether a failed, canceled, or retried AI generation consumes a free use
+- How duplicate, deleted, and regenerated estimates affect the allowance
 
 ---
 
@@ -91,25 +150,25 @@ The public copy contains no placeholders, but checkout and legal implementation 
 
 **Eyebrow**
 
-Get in on the ground floor.
+Start with real work. Decide from experience.
 
 **Headline**
 
-$39/month. Locked in for as long as you stay subscribed.
+Generate your first 5 estimates free. Then decide.
 
 **Supporting copy**
 
-Join TULBOXX while we build the next generation of contractor business software and keep your Ground Floor Rate for the life of your active subscription.
+No credit card required. Start with real work and see how TULBOXX fits the way you estimate.
 
-Everything is included—every feature available today and every TULBOXX feature we add as the platform grows.
+When you are ready to continue, the Ground Floor Rate is $39 per month with every feature included. Join while enrollment is open, and that monthly rate stays locked for the life of your active subscription.
 
 **Primary CTA**
 
-Lock In My Ground Floor Rate
+Start Free
 
 **Support line**
 
-Ground Floor enrollment is currently open. Once it closes, new customers will pay the pricing available at that time.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -119,15 +178,18 @@ Use a quiet Steel Blue and Tradesman White composition with clear typography and
 
 ---
 
-# Section 2 - Offer at a Glance
+# Section 2 - The Path at a Glance
 
 ## Purpose
 
-Make the full offer understandable within seconds.
+Make the free-to-paid path understandable within seconds.
 
 ## Offer Facts
 
-- $39 per month
+- First 5 AI-assisted estimates free to create, send, share, and download
+- No credit card required to start
+- $39 per month after the free estimate experience
+- Monthly billing only; no annual plan or annual discount
 - All current features included
 - Future TULBOXX features included
 - No feature tiers
@@ -137,6 +199,8 @@ Make the full offer understandable within seconds.
 ## Rules
 
 - Keep `$39/month` and the active-subscription condition together.
+- Keep the five-estimate limit beside the word “free” whenever the complete offer is explained.
+- Do not call the free experience a trial or imply an unlimited free plan.
 - Do not describe the offer as “lifetime access.”
 - Do not imply that enrollment has closed or use an invented deadline.
 - Do not use a monthly/annual toggle while only monthly pricing is approved.
@@ -163,7 +227,7 @@ Contractors and service business owners who want to get in early and grow with T
 
 **Value statement**
 
-Run your service business with every TULBOXX feature included at one straightforward monthly rate.
+Get the whole TULBOXX platform—every current feature and every future TULBOXX feature added as the platform grows—at one straightforward monthly rate.
 
 **Includes**
 
@@ -180,7 +244,11 @@ Your $39 monthly rate remains locked for the life of your active subscription.
 
 **CTA**
 
-Lock In My Ground Floor Rate
+Start Free
+
+**CTA support line**
+
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -194,7 +262,7 @@ Use one prominent offer card. The visual emphasis should come from clarity and t
 
 ## Headline
 
-Everything included should help the business feel more under control.
+Everything included. One business moving forward.
 
 ## Purpose
 
@@ -230,9 +298,8 @@ One rate. The whole TULBOXX platform.
 - Communication
 - Invoices and Payments
 - AI Assistance
-- Reporting and Automation
-- Integrations and Data
-- Team, Permissions, and Support
+- Reporting and Reminders
+- Account and Billing Management
 
 ## Presentation Rules
 
@@ -260,7 +327,7 @@ The price is only one side of the decision.
 
 **Headline**
 
-What is disconnected admin already costing the business?
+What is disconnected admin already costing your business?
 
 **Body copy**
 
@@ -315,7 +382,7 @@ Know what else can affect the total.
 - Integrations or add-ons
 - Taxes
 - Overage behavior
-- Annual commitment
+- Billing cadence and annual commitment (monthly only; no annual plan at launch)
 - Hardware or third-party costs
 
 ## Rule
@@ -332,37 +399,61 @@ Questions worth answering before you start.
 
 ## Required Topics
 
+### What counts as one of my five free estimates?
+
+Entering or editing the details does not count by itself. Your first five AI-assisted estimates can be created, sent, shared, and downloaded free. TULBOXX will create estimate six so you can see the completed work; upgrading to Pro unlocks sending, sharing, and downloading it.
+
 ### Is TULBOXX difficult to set up?
 
-Answer with the confirmed onboarding process, expected effort, available assistance, and what the customer must prepare.
+You can begin with the work you already have. The current onboarding experience uses a checklist on the home screen to help you complete your business profile, add a customer, create your first estimate, and explore Today's List.
+
+You do not have to finish every profile detail before beginning, but completing your business information and document preferences helps TULBOXX prepare more useful customer-facing work.
+
+**Roadmap note — not public launch copy:** Replace or augment the checklist with a guided experience led by Bolt, the TULBOXX assistant. Bolt should use a brand-approved SVG character and contextual walkthrough prompts to explain each screen and help the contractor build the business profile as they go.
 
 ### Can I bring information from another system?
 
-Explain confirmed import or migration support and limitations.
+Not yet. TULBOXX does not currently offer self-service importing or migration.
+
+The first planned import should accept a basic CSV file, let the contractor map its columns to TULBOXX fields, preview the result, identify duplicates or missing required information, and approve the import before records are created. QuickBooks-formatted files and exports from other systems can be added after the core mapping flow is proven.
 
 ### Will this work from my phone?
 
-Describe current mobile availability and important differences.
+Yes. TULBOXX is a responsive web application that works through the browser on a phone, tablet, or computer.
+
+It is not currently a native Apple or Android app. An installable web app and native mobile options are planned for evaluation after V2 is complete.
 
 ### Can my team use it?
 
-Explain included users, additional-user pricing, roles, and permissions.
+TULBOXX currently supports one user account per business. Team accounts, roles, permissions, crew assignments, and additional-user pricing are planned for a later product phase and should not be promised at launch.
 
 ### How do payments work?
 
-Explain provider, methods, timing, fees, and availability.
+TULBOXX can send professional invoices, send invoice reminder emails, record payments or refunds received outside TULBOXX, and keep the outstanding balance and payment history visible. Customer card and ACH checkout through TULBOXX is not currently available and should not be implied before Stripe Connect launches.
 
 ### What does AI do with my information?
 
-Explain supported AI behavior, review, data handling, and limitations using approved policy language.
+TULBOXX uses AI to help organize the information you provide and prepare useful drafts, including estimates. You remain in control: review the result, make any changes, and decide what gets sent to your customer.
+
+When an AI feature is used, TULBOXX sends the information needed for that request to its commercial AI provider. Customer inputs and outputs are not opted into model training. The provider's standard policy is to delete API inputs and outputs from its systems within 30 days, with limited exceptions for safety, legal compliance, or a different service agreement. TULBOXX separately retains the account and project information needed to provide the service under its own privacy and retention policy.
+
+**Legal and implementation review — not public copy:** Confirm that production uses Anthropic's commercial API under the expected account settings, that no feedback or training opt-in is enabled, and that the TULBOXX Privacy Policy accurately explains what is sent, what TULBOXX stores, how long it is retained, and how deletion requests are handled. Anthropic's current commercial-product guidance says API inputs and outputs [are not used for training by default](https://privacy.anthropic.com/en/articles/7996868-is-my-data-used-for-model-training) and [are normally deleted from its backend within 30 days](https://privacy.anthropic.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data), subject to stated exceptions. Have qualified counsel review the final Privacy Policy and Terms before publication.
 
 ### Can I cancel?
 
-State exact cancellation, renewal, data-access, and refund terms.
+Yes. TULBOXX is a monthly subscription. If you cancel, your access continues through the end of the current paid billing period and the subscription does not renew for another month.
+
+Payments are non-refundable. TULBOXX does not provide prorated refunds or credits for unused time, except where required by law. There is no annual plan or annual commitment.
+
+After paid access ends, the account and project data remain stored in TULBOXX, but the customer no longer has product access.
+
+**Retention policy note — not public copy:** TULBOXX does not currently delete canceled-account data from its database. Define a retention period, deletion process, export process, and any reactivation or recovery window before publishing the final Privacy Policy. Do not promise indefinite retention.
 
 ### What support is included?
 
-Explain channels, hours, response expectations, and plan differences.
+Bolt, the in-app AI assistant, is available inside TULBOXX for immediate product guidance. When you need help from a person, email support@tulboxx.com.
+
+**Launch requirement — not public copy:** Create and test the `support@tulboxx.com` Google Workspace group before publication. Set an honest response-time expectation when support operations can reliably meet it. Do not promise 24/7 human support unless operations can consistently provide it.
 
 ## Rule
 
@@ -382,19 +473,19 @@ Use an accessible accordion or open text sections. Critical pricing and cancella
 
 **Headline**
 
-Start with the business you have. Build the one you want.
+Start with your next estimate.
 
 **Body copy**
 
-Get in on the ground floor, see how TULBOXX fits your day, and take the first step toward a more organized business.
+Start with real work, generate your first 5 estimates free, and decide from experience whether TULBOXX belongs in your business.
 
 **Primary CTA**
 
-Lock In My Ground Floor Rate
+Start Free
 
 **Support line**
 
-Ground Floor enrollment is currently open. Your $39 monthly rate stays locked for the life of your active subscription.
+No credit card required. If you continue after the free estimate experience, the current Ground Floor Rate is $39 per month for the life of your active subscription.
 
 ## Visual Direction
 
@@ -436,12 +527,17 @@ Keep this section quiet and confident. Summarize the established value. Do not a
 Maintain one approved source of truth containing:
 
 - Public offer name
+- Five free AI-assisted estimates with send, share, and download access
+- Estimate creation as the event that advances the free allowance
+- Estimate-six generation followed by locked send, share, and download actions
+- No-credit-card requirement for the free entry experience
+- Conversion point from the free experience to paid access
 - Price, currency, and monthly billing period
 - Active-subscription rate-protection rule
 - Included users and usage limits when finalized
 - All-feature entitlement
 - Add-ons and fees
-- Trial and eligibility rules, if introduced
+- Free-experience eligibility and repeat-signup rules
 - Enrollment close event when selected
 - Cancellation and refund terms
 - Regional restrictions
@@ -474,7 +570,11 @@ Existing Ground Floor customers retain their $39 monthly rate and all-feature ac
 
 Track:
 
-- Ground Floor CTA selection
+- Start Free CTA selection
+- First AI-assisted estimate generated
+- Free-generation allowance progression
+- Estimate-six locked preview and upgrade-wall view
+- Free-to-Ground-Floor conversion
 - Included-feature engagement
 - ROI-calculator use
 - FAQ engagement
@@ -483,6 +583,8 @@ Track:
 Answer:
 
 - Do visitors understand the Ground Floor Rate quickly?
+- Do visitors understand that free means the first 5 estimates rather than an unlimited plan?
+- Does the no-credit-card entry point reduce uncertainty without obscuring the paid next step?
 - Where does uncertainty remain?
 - Are visitors surprised by limits or fees?
 - Do visitors understand that all features are included?
@@ -511,6 +613,8 @@ Do not manipulate defaults solely to increase short-term conversion.
 The page is ready when:
 
 - Every price and term is approved.
+- Visitors understand that they can generate their first 5 estimates free with no credit card.
+- The page never implies an unlimited free plan.
 - Visitors understand the $39 Ground Floor Rate within seconds.
 - Billing units and commitments are unambiguous.
 - Fees and meaningful limits are disclosed.
@@ -519,6 +623,7 @@ The page is ready when:
 - FAQs answer real objections directly.
 - Mobile offer details are usable.
 - Ground Floor terms match checkout and subscription behavior.
+- TULBOXX creates estimate six, and its send, share, and download actions remain locked until the contractor upgrades to Pro.
 - The page creates confidence without pressure.
 
 ---

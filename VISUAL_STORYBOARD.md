@@ -864,12 +864,15 @@ Do not distract from the decision.
 
 Use:
 
-* Clear plan cards
-* Value comparison
+* One clear Ground Floor Rate card
+* A concise statement that every feature is included
+* The first-five-generations-free path
 * ROI calculator
-* Feature comparison
+* Straightforward answers to common objections
 
 Avoid large lifestyle photography here.
+
+Do not show multiple tiers or a feature-comparison grid unless the product and pricing strategy later introduces genuinely distinct plans.
 
 The visitor is making a rational decision.
 

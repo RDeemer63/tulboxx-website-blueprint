@@ -104,7 +104,7 @@ Primary CTA
 
 Start Free
 
-or the approved acquisition CTA at launch.
+When space allows, support the CTA with: **First 5 AI-assisted estimate generations free. No credit card required.**
 
 ## Behavior
 
@@ -909,7 +909,9 @@ The user should understand the difference quickly.
 
 ## Purpose
 
-Help customers compare plans after they understand the high-level distinction.
+Future-only component for comparing genuinely distinct plans if TULBOXX introduces tiers later.
+
+Do not use this component for the current launch offer. The Ground Floor Rate is one plan at $39 per month with every feature included, so a comparison table would create complexity that does not exist.
 
 ## Structure
 

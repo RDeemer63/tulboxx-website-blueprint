@@ -1,11 +1,14 @@
 # TULBOXX Platform
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Platform  
 **Recommended route:** `/platform`  
 **Primary CTA:** See How It Works  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Why TULBOXX  
 **Next page in the story:** How It Works
 
@@ -18,6 +21,10 @@ The Platform page explains how TULBOXX works as one connected operating system f
 This is the first page in the website journey where the product becomes the primary proof.
 
 The page should show how customers, projects, estimates, jobs, invoices, payments, and communication remain connected as work moves forward. It should help the visitor understand the system without turning into a feature catalog or dashboard gallery.
+
+## Editorial Ownership
+
+This page owns the connected-information model: one customer, one job, and one continuous history across the work. It should prove relationships between information, not re-teach the product philosophy, narrate every workflow step, or inventory every feature.
 
 ---
 
@@ -149,6 +156,10 @@ See How It Works
 
 Start Free
 
+**CTA support line**
+
+Generate your first 5 estimates free. No credit card required.
+
 ## Visual Direction
 
 **Asset ID:** `PLATFORM-HERO-01`
@@ -209,11 +220,11 @@ Everything important stays with the work.
 
 **Body copy**
 
-The address should not live in one app while the photos live in another. The scope should not disappear after the estimate. The crew should not have to ask what the customer already approved.
+The address should not live in one app while the photos live in another. The scope should not disappear after the estimate. You should not have to reconstruct what the customer already approved when the work begins.
 
 In TULBOXX, the customer and project create the shared history underneath the work.
 
-Contacts, notes, photos, estimates, schedule details, messages, invoices, payments, and decisions remain connected to the same story.
+Contacts, notes, photos, estimates, schedule details, customer-document activity, invoices, payments, and decisions remain connected to the same story.
 
 ## Core Relationship
 
@@ -267,7 +278,7 @@ The visitor should think:
 
 ---
 
-# Section 3 - Capture Work Naturally
+# Section 3 - Bring Information Into the Project
 
 ## Stage
 
@@ -275,25 +286,23 @@ Understanding
 
 ## Question Answered
 
-How does information enter the platform?
+How does the first information become part of the connected record?
 
 ## Copy
 
 **Eyebrow**
 
-Start with what you already have.
+Start the job with what you already know.
 
 **Headline**
 
-A call, a text, a photo, or a rough note can start the work.
+Give the first details a place to stay with the work.
 
 **Body copy**
 
-Real jobs do not begin with a perfect form.
+A customer name. A property. A photo. A measurement. A few rough notes about what needs to happen.
 
-They begin with a customer explaining a problem, pictures from the property, a few measurements, and what you learned while walking the site.
-
-Capture what matters now. Add detail as the work develops. TULBOXX helps organize the information without forcing you to know everything at the beginning.
+Bring those first details into the project, then add what you learn as the work develops. New information strengthens the same job story instead of creating another disconnected place to search later.
 
 ## Input Examples
 
@@ -311,7 +320,7 @@ Capture what matters now. Add detail as the work develops. TULBOXX helps organiz
 
 **Purpose**
 
-Show that the system accommodates natural, incomplete input.
+Show how confirmed input becomes part of the connected project record.
 
 **Format**
 
@@ -339,7 +348,7 @@ The final product state must visibly distinguish original information from any o
 
 The visitor should think:
 
-> I could start this the way I already work.
+> I can see where the information goes and what it stays connected to.
 
 ---
 
@@ -519,26 +528,22 @@ Give customers a clear, professional experience from start to finish.
 
 **Body copy**
 
-The customer should not have to piece together what is happening from scattered texts, missed calls, and different documents.
+The customer should not have to receive an estimate that feels disconnected from the invoice and follow-up that come later.
 
-Keep the estimate, approval, job communication, invoice, and payment experience connected to the same work.
+Use the same customer and work context to prepare clearer estimates, preserve approval, send professional invoices, and follow up on an outstanding balance.
 
-Professional communication should be possible whether the company has an office team or the owner is handling it from the truck.
+Professional communication should be possible even when the owner is handling it from the truck.
 
 ## Customer Experience Path
 
 ```text
-Clear response
-    ↓
 Professional estimate
     ↓
 Obvious approval step
     ↓
-Useful job communication
+Clear invoice and amount due
     ↓
-Clear invoice
-    ↓
-Confident payment experience
+Professional invoice follow-up
 ```
 
 ## Visual Direction
@@ -555,7 +560,7 @@ Side-by-side contractor and customer states from the same demonstration project.
 
 **Concept**
 
-The contractor sends or advances one item. The adjacent customer view shows the resulting estimate, approval request, update, or invoice. The relationship between internal action and customer experience should be obvious.
+The contractor sends or advances one item. The adjacent customer view shows the resulting estimate, approval request, invoice, or reminder. The relationship between internal action and customer experience should be obvious.
 
 **Rule**
 
@@ -587,17 +592,17 @@ Powerful technology. Practical help.
 
 **Headline**
 
-AI works underneath the process—not above your judgment.
+Use what the job already knows to get to a better draft faster.
 
 **Body copy**
 
-Use AI to help organize rough information, prepare clearer language, and reduce repetitive work.
+TULBOXX can use the information already connected to the work to help organize rough details, prepare an estimate draft, or improve customer-facing language.
 
-You review the result. You set the price. You approve the scope. You decide what moves forward.
+AI helps with the first draft. You review the result, set the price, and decide what moves forward.
 
-**Principle line**
+## Editorial Boundary
 
-AI organizes. Contractors decide.
+Why TULBOXX owns the full contractor-control principle. This section exists only to show where verified assistance fits inside the connected platform.
 
 ## Visual Direction
 
@@ -636,7 +641,7 @@ The visitor should think:
 
 ---
 
-# Section 8 - Simple and Complex Work
+# Section 8 - The Record Grows With the Work
 
 ## Stage
 
@@ -644,25 +649,27 @@ Confidence
 
 ## Question Answered
 
-Will this fit both straightforward jobs and more involved projects?
+Can the connected record hold the right level of detail for different work?
 
 ## Copy
 
 **Eyebrow**
 
-The right amount of structure.
+Connected without being overloaded.
 
 **Headline**
 
-Simple jobs stay simple. Complex work still has room to grow.
+Keep a small job focused. Give a bigger project room to grow.
 
 **Body copy**
 
-A quick repair should not require the same process as a long project.
+A straightforward job may need only the customer, the work, and a clear path to payment. A larger project may add approved scope, phases, documentation, communication, and billing detail.
 
-Start with the information the job needs. Add more detail, communication, documentation, and financial structure only when the work requires it.
+Either way, the history stays connected without making every job carry complexity it does not need.
 
-TULBOXX should feel lightweight for the small job and capable for the larger one.
+## Editorial Boundary
+
+Why TULBOXX owns the progressive-structure philosophy. This section should prove its effect on the platform's information model.
 
 ## Comparison
 
@@ -736,7 +743,7 @@ Every part has a job. Together, they create control.
 
 **Outcome headline**
 
-Never lose the customer story.
+Keep the customer story within reach.
 
 **Copy**
 
@@ -796,7 +803,7 @@ Use the shared customer and project context to support clear, timely communicati
 
 **Outcome headline**
 
-Let the system help carry the administrative load.
+Reduce the work that should not require your full attention.
 
 **Copy**
 
@@ -867,7 +874,7 @@ Start Free
 
 **CTA support line**
 
-Add signup reassurance only after trial, credit-card, and cancellation terms are confirmed.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1091,7 +1098,9 @@ Reuse the same source captures across sections when they explain different parts
 - Confirm which complex-project capabilities are currently available.
 - Approve the fictional demonstration project and all data.
 - Capture approved desktop and mobile product states.
-- Confirm Start Free terms and routes.
+- Confirm the Start Free route and account-creation flow.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Confirm final accent colors, logos, and production fonts.
 
 Any capability that is aspirational must be removed from launch copy or clearly separated into approved future-state communication.

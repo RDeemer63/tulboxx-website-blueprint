@@ -1,11 +1,14 @@
 # How TULBOXX Works
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** How It Works  
 **Recommended route:** `/how-it-works`  
 **Primary CTA:** Explore Features  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Platform  
 **Next page in the story:** Features
 
@@ -20,6 +23,10 @@ It should show what using TULBOXX feels like from the first customer conversatio
 This is not a feature tour.
 
 It is one job, told clearly from beginning to end.
+
+## Editorial Ownership
+
+This page owns the practical first-call-to-final-payment demonstration through Morgan Lee's Backyard Drainage and Grading project. It should show the product in use rather than re-sell the philosophy, re-explain the information model, or become a feature inventory.
 
 ---
 
@@ -190,6 +197,10 @@ Follow the Job
 
 Start Free
 
+**CTA support line**
+
+Generate your first 5 estimates free. No credit card required.
+
 ## Visual Direction
 
 **Asset ID:** `WORKFLOW-HERO-01`
@@ -323,11 +334,7 @@ Walk the site. Capture what matters while it is in front of you.
 
 At the property, take photos, record measurements, and describe the work in your own words.
 
-Use a rough note or voice description. TULBOXX can help organize the information into a clearer starting point. You review the details and decide what belongs in the project.
-
-**Principle line**
-
-AI organizes. Contractors decide.
+Describe the drainage problem in your own words. TULBOXX helps organize the rough information into a clearer draft that you can review, edit, and confirm before it becomes part of the project.
 
 **Outcome line**
 
@@ -403,11 +410,11 @@ Turn what you learned into a clear, professional next step.
 
 **Body copy**
 
-Start the estimate with the customer, property, photos, and work description already connected to the project.
+Start with Morgan, the property, the site details, and the work description already connected to the project.
 
-Build the scope. Add the price. Review the details. Send Morgan an estimate that makes the work and the next step easy to understand.
+Use Generate Estimate to organize that information into a professional draft. Then review the scope, add the quantities and price, and make sure the proposed work is accurate before anything is sent.
 
-TULBOXX can help organize the draft. The contractor decides the scope, quantities, and price.
+Morgan receives an estimate that makes both the work and the next step easy to understand. You remain responsible for every detail and every dollar.
 
 **Outcome line**
 
@@ -484,7 +491,7 @@ Turn the approved work into a clear plan.
 
 When Morgan approves the estimate, keep the decision attached to the project.
 
-Carry the approved work forward, choose the next action, schedule the job, and make sure everyone knows what was agreed to.
+Carry the approved work forward, choose the next action, schedule the job, and keep what was agreed within reach.
 
 **Outcome line**
 
@@ -495,13 +502,13 @@ The job begins with the approved scope already connected.
 - Confirm the approval state
 - Review the approved scope
 - Confirm deposit or prerequisite status when applicable and supported
-- Choose dates and assign the work when supported
+- Choose or confirm the job dates
 - Prepare the job details
-- Communicate the next step to the customer
+- Use the connected details to communicate the next step to the customer
 
 ## Customer Experience
 
-Morgan knows the estimate was accepted and what will happen before the crew arrives.
+The contractor has the approved scope and schedule context needed to tell Morgan what happens next.
 
 ## Visual Direction
 
@@ -520,11 +527,11 @@ An approval-to-job product transition.
 - The approved estimate remains visible in project history.
 - Approved scope appears in the job context.
 - The contractor selects or confirms the schedule.
-- Customer communication reflects the confirmed plan.
+- The approved scope and selected schedule remain connected.
 
 **Verification rule**
 
-Show only approval, deposit, scheduling, assignment, and notification behaviors supported by the current product.
+Show only approval, deposit, scheduling, and notification behaviors supported by the current product.
 
 ## Exit Condition
 
@@ -552,26 +559,26 @@ Step 5
 
 **Headline**
 
-Give the field the information it needs—without sending everyone back to the office.
+Bring the job details with you into the field.
 
 **Body copy**
 
-The crew can see the customer, property, approved work, schedule, photos, and details that matter to the job.
+At the jobsite, pull up the customer, property, approved work, schedule, photos, and details that matter to the job.
 
 As the drainage work progresses, capture notes, photos, updates, and important changes with the project instead of scattering them across personal phones.
 
 **Outcome line**
 
-The people doing the work can understand what was promised and what has happened.
+The work begins with the promise and the latest project details still connected.
 
 ## Job Information
 
 - Customer and property context
 - Approved scope
-- Schedule and assignment when supported
+- Schedule and job status
 - Site photos and access details
 - Work notes and completion evidence
-- Customer communication
+- Customer and approval context
 - Changes or exceptions requiring attention
 
 ## Visual Direction
@@ -726,7 +733,7 @@ The business knows where the money stands without searching for the rest of the 
 
 ## Customer Experience
 
-Morgan has a clear payment step and a complete, professional close to the job.
+Morgan receives a clear invoice, and the contractor keeps the payment record connected when payment arrives.
 
 ## Visual Direction
 
@@ -738,7 +745,7 @@ Complete the workflow with clarity rather than celebration.
 
 **Format**
 
-Contractor and customer payment states followed by the completed project history.
+Customer invoice state followed by the contractor recording payment and the updated project history.
 
 **Rule**
 
@@ -785,7 +792,7 @@ The drainage project followed a full estimate-to-payment path.
 
 Another customer may need a quick repair, time-and-material work, a verbal price, or a job that begins without a formal estimate.
 
-TULBOXX should support the natural path of the work instead of forcing every job through the same pipeline.
+TULBOXX follows the path the job needs instead of forcing every customer through the same pipeline.
 
 ## Example Paths
 
@@ -806,6 +813,10 @@ Customer → Work → Invoice or Payment
 ```text
 Customer → Scheduled Work → Recorded Work → Invoice → Payment
 ```
+
+## Editorial Boundary
+
+Keep these alternate paths because they prevent the Morgan Lee demonstration from looking mandatory. Do not restate the broader progressive-structure philosophy owned by Why TULBOXX.
 
 ## Visual Direction
 
@@ -912,7 +923,7 @@ Explore the tools behind the workflow.
 
 **Body copy**
 
-See how TULBOXX supports estimating, customers, scheduling, jobs, invoices, payments, communication, and the other work that keeps a service business moving.
+Now look beneath the Morgan Lee workflow and explore the specific tools that help win the work, run the job, stay organized, and get paid.
 
 **Primary CTA**
 
@@ -924,7 +935,7 @@ Start Free
 
 **CTA support line**
 
-Add signup reassurance only after the exact offer and terms are confirmed.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1023,7 +1034,7 @@ Create and review:
 - Voice note and rough scope
 - Estimate line items and totals
 - Approval state
-- Schedule and assignment state
+- Schedule and job state
 - Job notes and completion photos
 - Invoice details
 - Payment state
@@ -1165,7 +1176,9 @@ Reuse source photography and product captures across the page. The visitor shoul
 - Approve all fictional demonstration data.
 - Produce approved project photography or realistic generated imagery.
 - Capture desktop and mobile product states.
-- Confirm Start Free offer and route.
+- Confirm the Start Free route and account-creation flow.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Confirm final brand assets, accent colors, and production fonts.
 
 Any unsupported step must be revised, removed, or explicitly approved as future-state communication before launch.

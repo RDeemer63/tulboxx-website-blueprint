@@ -1,11 +1,14 @@
 # TULBOXX Homepage
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Home  
 **Recommended route:** `/`  
 **Primary CTA:** See How It Works  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Next page in the story:** Why TULBOXX
 
 ---
@@ -23,6 +26,10 @@ The visitor should understand three things:
 3. It helps the business feel more organized without creating more administration.
 
 The homepage should create recognition before explanation, outcomes before features, and confidence before commitment.
+
+## Editorial Ownership
+
+This page owns the contractor's current administrative burden and the promise of a better future. It may preview connected work, product philosophy, field use, and capabilities, but it should not fully explain them. Those ideas belong to Platform, Why TULBOXX, How It Works, and Features.
 
 ---
 
@@ -78,7 +85,7 @@ TULBOXX | Run Your Service Business From One Place
 
 ## Recommended Meta Description
 
-Keep customers, estimates, jobs, invoices, and payments connected with business software built around how contractors actually work.
+Keep customers, estimates, jobs, invoices, and payments connected with TULBOXX. Generate your first 5 estimates free—no credit card required.
 
 ## Social Share Title
 
@@ -86,7 +93,7 @@ Run Your Entire Service Business From One Place
 
 ## Social Share Description
 
-Spend less time managing paperwork and more time building your business with TULBOXX.
+Keep every job moving from the first customer call to final payment—and spend less of the evening piecing the business back together.
 
 ## Social Share Image Direction
 
@@ -150,7 +157,7 @@ Is this for someone like me?
 
 **Eyebrow**
 
-Built for contractors who do the work and run the business.
+Business software built for the trades.
 
 **Headline**
 
@@ -158,7 +165,7 @@ Run Your Entire Service Business From One Place.
 
 **Supporting copy**
 
-Keep customers, estimates, jobs, invoices, payments, and follow-ups connected—without turning yourself into a full-time administrator.
+Keep every job moving—from the first customer call to final payment—without spending your nights piecing the business back together.
 
 **Primary CTA**
 
@@ -170,7 +177,7 @@ Start Free
 
 **CTA support line**
 
-Add trial or signup reassurance only after the exact offer, credit-card requirement, and cancellation terms are confirmed.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -236,33 +243,35 @@ Do they understand what makes my day difficult?
 
 **Eyebrow**
 
-The work is not the problem.
+The work is not what wears you down.
 
 **Headline**
 
-You already know how to do the job.
+The part nobody sees follows you home.
 
 **Body copy**
 
-It is everything around the job that gets heavy.
+You know how to do the work. It is everything around the work that gets heavy.
 
-The estimate waiting after a long day. The customer details buried in a text thread. The follow-up you meant to send. The invoice still sitting in the truck.
+The estimate waiting after a long day. The customer details buried in a text thread. The follow-up you meant to send. The invoice that still has not gone out.
 
-Growth should create opportunity. Not more chaos.
+Each task is manageable. Keeping all of them moving while you are doing the actual work is what turns growth into another shift after the shift.
+
+Growth should create opportunity—not more chaos.
 
 ## Recognition Moments
 
-### The estimate waiting at home
+### The job is done. The estimate is not.
 
-The fieldwork is finished. The paperwork is not.
+The details are still fresh, but the time to turn them into a professional next step disappeared hours ago.
 
-### The details buried everywhere
+### The whole story lives in five places.
 
-Texts, notes, photos, addresses, and prices should not live in five different places.
+The text is on your phone. The photos are in the camera roll. The measurements are on paper. The price is still in your head.
 
-### The follow-up that depends on memory
+### The next step depends on remembering.
 
-Your business should keep moving even when the day gets busy.
+A good opportunity should not go cold because the day got busy before you could follow up.
 
 ## Visual Direction
 
@@ -319,20 +328,22 @@ There is a better way.
 
 **Headline**
 
-What if the business felt as organized as the work?
+Imagine ending the day knowing nothing important got left behind.
 
 **Body copy**
 
-Imagine knowing what needs attention, where every job stands, and what happens next—without rebuilding the story every time you open another app.
+One place to see who needs an estimate, what was approved, where each job stands, which invoice should go out, and what needs your attention next.
 
-TULBOXX gives the work one connected place to move forward.
+No piecing the story together. No entering information the business already knows. Just a clearer next step for every job.
+
+TULBOXX helps turn scattered work into a business you can see and direct.
 
 ## Outcome Statements
 
-- Know what needs your attention.
-- Keep customer and job information together.
-- Move work forward without entering it again.
-- Communicate like a company with a full office team.
+- Know what needs your attention before it becomes a problem.
+- Keep the customer, the job, and the conversation together.
+- Move the work forward without rebuilding it at every step.
+- Give customers a clear, professional next step.
 - Finish the day knowing where the business stands.
 
 ## Visual Direction
@@ -381,17 +392,19 @@ What does “one place” actually mean?
 
 **Eyebrow**
 
-Enter it once. Keep it moving.
+One connected place.
 
 **Headline**
 
-The information moves with the work.
+From the first call to final payment, the job stays connected.
 
 **Body copy**
 
-A customer conversation can become a clear scope. That scope can become an estimate. An accepted estimate can become a job. The job can become an invoice.
+A customer call becomes the beginning of the job—not another record you will have to rebuild later.
 
-You move the work forward. TULBOXX keeps the story connected.
+As the work moves from scope to estimate to job to invoice, the customer details and work history move with it.
+
+You decide what moves forward. TULBOXX keeps the context from getting lost.
 
 ## Workflow
 
@@ -409,35 +422,13 @@ Invoice
 Payment
 ```
 
-## Supporting Copy by Step
-
-### Customer
-
-Start with what you already know from the call, text, photo, or site visit.
-
-### Scope
-
-Turn rough information into a clear description of the work.
-
-### Estimate
-
-Send a professional price and give the customer a clear next step.
-
-### Job
-
-Keep the schedule, details, photos, and communication connected.
-
-### Invoice
-
-Bill from the work that is already there instead of starting over.
-
-### Payment
-
-See what is paid, what is outstanding, and what needs attention.
-
 ## CTA
 
 See How It Works
+
+## Editorial Boundary
+
+Keep this as a fast preview. `PLATFORM.md` owns the connected-information explanation, and `HOW_IT_WORKS.md` owns the complete step-by-step workflow.
 
 ## Visual Direction
 
@@ -491,6 +482,10 @@ Less admin. More progress.
 
 Build a better business without building a bigger pile of paperwork.
 
+**Body copy**
+
+The goal is not to add another app to your day. It is to help the business move faster, look more professional, and leave less waiting for you tonight.
+
 ## Outcome 1
 
 **Headline**
@@ -499,7 +494,7 @@ Win more of the right work.
 
 **Copy**
 
-Turn what you learned on the call or at the site into a clear, professional estimate while the opportunity is still warm.
+Turn what you learned on the call or at the site into a clear, professional estimate while the opportunity is still warm—and give the customer an obvious next step.
 
 ## Outcome 2
 
@@ -509,7 +504,7 @@ Know what happens next.
 
 **Copy**
 
-See the work that needs attention so customers, jobs, and follow-ups do not depend on memory.
+See which estimate needs a follow-up, which job needs attention, and which invoice is waiting—without carrying the entire business in your head.
 
 ## Outcome 3
 
@@ -519,7 +514,7 @@ Get paid without starting over.
 
 **Copy**
 
-Carry the job information forward, send the invoice, and keep outstanding payments visible.
+Turn completed work into an invoice without rebuilding the job, then keep outstanding payments visible until they are handled.
 
 ## Outcome 4
 
@@ -529,7 +524,7 @@ Get some time back.
 
 **Copy**
 
-Spend less of the evening rebuilding information the business already knows.
+Spend less of the evening recreating information, chasing details, and remembering what still needs to happen tomorrow.
 
 ## Visual Direction
 
@@ -565,7 +560,7 @@ The visitor should think:
 
 ---
 
-# Section 6 - Natural Work and Quiet AI
+# Section 6 - A Better Starting Point
 
 ## Stage
 
@@ -573,27 +568,27 @@ Belief
 
 ## Question Answered
 
-Will I have to change the way I work?
+Can TULBOXX help with the rough information I already have?
 
 ## Copy
 
 **Eyebrow**
 
-Work naturally.
+Start with the way you already describe the work.
 
 **Headline**
 
-Talk like a contractor. Finish like you have an office team.
+Turn rough job details into an estimate you are ready to review.
 
 **Body copy**
 
-Start with a rough note, a voice description, a customer message, or photos from the site.
+Describe the work in your own words and add the details that matter. When you choose Generate Estimate, TULBOXX uses AI to help organize that information into a professional draft.
 
-TULBOXX can help organize what matters and prepare the next step. You review it. You decide. You stay in control.
+You review the scope. You set the price. You decide what gets sent.
 
-**Principle line**
+## Editorial Boundary
 
-AI organizes. Contractors decide.
+The full contractor-control philosophy belongs on Why TULBOXX. Here, show only the practical benefit and the visible review step.
 
 ## Visual Direction
 
@@ -633,7 +628,7 @@ The visitor should think:
 
 ---
 
-# Section 7 - Built for the Field
+# Section 7 - Ready for the Workday
 
 ## Stage
 
@@ -641,30 +636,31 @@ Belief → Trust
 
 ## Question Answered
 
-Was this built for the way I really work?
+Can this fit into a real day in the field?
 
 ## Copy
 
 **Eyebrow**
 
-Built for the person in the truck.
+Built for the five minutes between jobs.
 
 **Headline**
 
-Simple when the job is simple. Ready when it is not.
+Keep the business moving without going back to the office.
 
 **Body copy**
 
-A quick service call should stay quick. A larger project should have room for the details that matter.
-
-TULBOXX gives you structure when it helps and stays out of the way when it does not.
+The work does not wait for you to sit down at a desk. TULBOXX is designed to help you find the customer, capture what changed, and take the next supported action while the details are still fresh.
 
 ## Supporting Points
 
-- Start with incomplete information and add detail as the work develops.
-- Use the phone in the field without feeling trapped in an office workflow.
-- Keep straightforward jobs straightforward.
-- Add more structure when the project actually requires it.
+- Pull up the customer and job before the next appointment.
+- Capture useful details before they disappear into the day.
+- See the next action without digging through a crowded system.
+
+## Editorial Boundary
+
+The field-first design philosophy belongs on Why TULBOXX. This homepage section should provide a brief credibility cue, not repeat the complete argument.
 
 ## Visual Direction
 
@@ -712,7 +708,7 @@ Real contractors. Real progress.
 
 **Headline**
 
-See what changes when the business gets organized.
+See what changes when less of the business depends on memory.
 
 ## Required Proof Module
 
@@ -784,15 +780,19 @@ Will this fit my kind of business?
 
 **Eyebrow**
 
-Made for the trades.
+Different trades. Familiar pressure.
 
 **Headline**
 
-Different work. The same need to stay organized.
+Built around the business behind the work.
 
 **Body copy**
 
-Whether you build, repair, install, maintain, clean, or improve property, TULBOXX helps keep the customer and the work connected from the first conversation through final payment.
+An excavation project does not move like a painting job. A painting job does not move like an HVAC service call.
+
+The work may be different, but every business still needs a clear customer history, an organized job, a professional next step, and a reliable path to payment.
+
+TULBOXX gives contractors a connected place to run the business without pretending every trade works the same way.
 
 ## Trade Links
 
@@ -855,11 +855,11 @@ What should I do next?
 
 **Headline**
 
-Your business can feel more organized.
+Put the business back under control.
 
 **Body copy**
 
-You already know how to do the work. TULBOXX helps keep everything around it moving.
+Start with the next estimate. See what it feels like when the job details stay connected, the next step is clear, and there is less to rebuild at the end of the day.
 
 **Primary CTA**
 
@@ -871,7 +871,7 @@ See How It Works
 
 **CTA support line**
 
-Add only confirmed signup terms. Do not use “No credit card required,” a trial length, or cancellation language until verified.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1125,9 +1125,9 @@ Do not optimize for clicks at the expense of clarity or trust.
 
 # Content and Proof Required Before Launch
 
-- Confirm the exact Start Free offer and route.
-- Confirm whether a credit card is required.
-- Confirm trial length, if a trial exists.
+- Confirm the Start Free route and account-creation flow.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Confirm the product terms used in workflow screens.
 - Capture approved product screens for desktop and mobile.
 - Create fictional demonstration data for product visuals.
@@ -1149,12 +1149,14 @@ The homepage is ready for production when:
 - Outcomes appear before features.
 - The connected workflow is understandable without animation.
 - AI appears as practical assistance with a visible contractor review step.
-- No product, pricing, trial, or customer claim is unverified.
+- No product, pricing, acquisition-offer, or customer claim is unverified.
 - Product visuals use approved screens and fictional demonstration data.
 - Photography feels specific to real field work.
 - The mobile experience preserves the story instead of merely stacking desktop sections.
 - Every CTA uses one of the two approved actions.
 - The page naturally encourages the visitor to see how TULBOXX works or start free.
+- Every Start Free reassurance accurately states the five-generation limit and no-credit-card requirement.
+- Every public-copy block has been reviewed and explicitly approved before implementation.
 - Accessibility, performance, and reduced-motion requirements are met.
 
 ---

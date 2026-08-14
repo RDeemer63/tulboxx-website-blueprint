@@ -1,11 +1,14 @@
 # TULBOXX Solutions
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Solutions Hub  
 **Recommended route:** `/solutions`  
 **Primary CTA:** View Pricing  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Features  
 **Next page in the story:** Pricing
 
@@ -20,6 +23,10 @@ The Features page answered what TULBOXX can do.
 This page answers whether those capabilities make sense for the way a specific contractor works.
 
 The hub should route visitors into genuinely specific solution pages. It must not create the illusion of personalization by swapping trade names over identical copy.
+
+## Editorial Ownership
+
+This page owns relevance: whether TULBOXX fits the visitor's trade, company stage, and desired outcome. Generic platform, workflow, and feature explanations belong on their respective pages; Solutions should show only what changes when those capabilities meet a specific audience.
 
 ---
 
@@ -93,7 +100,7 @@ Different work. The same need to keep the business moving.
 
 **Supporting copy**
 
-Whether you build, repair, install, maintain, clean, or improve property, TULBOXX helps keep customers, jobs, paperwork, and payments connected around the way your business actually works.
+An excavation project, a painting job, and an HVAC service call do not move the same way. TULBOXX gives each business a connected place to manage the customer, the work, and the money without forcing every trade into the same process.
 
 **Primary CTA**
 
@@ -102,6 +109,10 @@ Find Your Solution
 **Secondary CTA**
 
 Start Free
+
+**CTA support line**
+
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -327,16 +338,16 @@ Keep customer details, estimates, jobs, invoices, and follow-ups organized while
 
 **Headline**
 
-Give the team one shared understanding of the work.
+Keep the work clear as more people become involved.
 
 **Copy**
 
-Keep customer, scope, schedule, photos, job details, and activity connected so information does not live in one person's phone or head.
+Keep customer, scope, schedule, photos, job details, and activity connected so the owner can prepare clearer handoffs without reconstructing the job each time.
 
 **Relevant outcomes**
 
 - Clearer handoffs
-- Shared job context
+- Better-prepared job handoffs
 - Consistent customer communication
 - More visible schedule and work status
 - Better completion documentation
@@ -349,19 +360,19 @@ Add control without adding unnecessary process.
 
 **Copy**
 
-Create a reliable operating rhythm as customers, jobs, employees, and financial activity increase.
+Create a reliable operating rhythm as customers, jobs, and financial activity increase.
 
 **Relevant outcomes**
 
 - More consistent workflows
-- Clear ownership and next actions when supported
+- Clear next actions
 - Better business visibility
-- Useful automation and reporting when available
+- Useful reporting and reminders
 - Complexity that appears only when needed
 
 ## Verification Rule
 
-Team roles, permissions, assignments, reporting, automation, and multi-user behavior must be confirmed before any company-stage page publishes them.
+Do not imply multi-user access, team roles, permissions, crew assignments, or shared employee accounts. Those capabilities are not part of the current launch product. Reporting and reminders may be shown only through verified current product states.
 
 ## Visual Direction
 
@@ -391,7 +402,7 @@ Connect approved work, schedule, field details, progress, and completion.
 
 ## Communicate Professionally
 
-Give customers clear responses, documents, approvals, updates, invoices, and payment steps.
+Give customers professional estimates, clear approvals, invoices, and thoughtful follow-up.
 
 ## Get Paid With Less Friction
 
@@ -406,6 +417,10 @@ Reduce repeated entry and administrative work that follows the contractor home.
 **Asset ID:** `SOLUTIONS-OUTCOMES-05`
 
 Use a connected before-and-after workflow for each selected outcome. Avoid promises based only on icons or unsupported metrics.
+
+## Editorial Boundary
+
+These outcome descriptions are routing summaries. `FEATURES.md` owns the detailed capability proof behind them.
 
 ---
 
@@ -431,7 +446,7 @@ An excavation estimate, a painting walkthrough, and an HVAC service call do not 
 
 They still need a customer, clear work context, a next action, professional communication, and a reliable path to payment.
 
-TULBOXX should provide the shared system while allowing the work to remain specific.
+TULBOXX provides the shared system while the path stays specific to the work.
 
 ## Example Paths
 
@@ -445,6 +460,10 @@ Walkthrough → Photos and Rooms → Estimate → Approval → Schedule → Work
 HVAC Service
 Call → Schedule → Diagnose → Repair or Recommendation → Invoice → Payment → Follow-up
 ```
+
+## Editorial Boundary
+
+Show only the trade-specific differences that make each path useful. `HOW_IT_WORKS.md` owns the complete generic first-call-to-payment demonstration.
 
 ## Visual Direction
 
@@ -505,15 +524,15 @@ Now that I see the fit, can I justify the investment?
 
 **Eyebrow**
 
-See what fits your business.
+See the offer clearly.
 
 **Headline**
 
-Choose the level of TULBOXX your business needs.
+Start free, then keep the whole platform at one straightforward rate.
 
 **Body copy**
 
-Review the plans, compare the value, and find the right place to start.
+Generate your first 5 estimates free with no credit card. Then see what is included at $39 per month and how the Ground Floor Rate stays protected.
 
 **Primary CTA**
 
@@ -525,7 +544,7 @@ Start Free
 
 **CTA support line**
 
-Add pricing or signup reassurance only after the exact offer and terms are confirmed.
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -658,7 +677,9 @@ Research should improve accuracy, not produce stereotypes. A trade page should b
 - Approve trade-specific fictional data.
 - Obtain expert review for trade language and imagery.
 - Confirm all customer proof and permissions.
-- Confirm pricing and Start Free routes and terms.
+- Confirm the Pricing and Start Free routes.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Approve generated photography and product composites.
 
 ---

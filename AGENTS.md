@@ -232,6 +232,23 @@ The visitor should never feel lost.
 
 ---
 
+# Canonical Acquisition Path
+
+The primary acquisition CTA is **Start Free**.
+
+The offer should be described consistently:
+
+- No credit card is required to begin.
+- The first five AI-assisted estimates can be created, sent, shared, and downloaded free.
+- Entering or editing estimate details does not count until TULBOXX creates the estimate.
+- TULBOXX creates estimate six so the contractor can see the completed work. That estimate is locked, and the upgrade wall protects sending, sharing, and downloading it.
+- The current paid offer is the **Ground Floor Rate**: $39 per month, every feature included, with that monthly rate protected for the life of the active subscription.
+- **Pro** remains the product plan name. **Ground Floor Rate** names the launch offer and member cohort, not a replacement for Pro.
+
+Do not invent alternate trial mechanics, plan tiers, deadlines, or urgency. Use `PRICING.md` as the source of truth for pricing copy, entitlement behavior, and unresolved operational questions.
+
+---
+
 # Design Philosophy
 
 Design should communicate confidence.

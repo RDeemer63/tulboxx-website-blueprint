@@ -1,10 +1,14 @@
 # Why TULBOXX
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.2<br>
+**Status:** Page Blueprint - V2 Public Copy Candidate; Product Verification Required<br>
+**Strategy and page structure:** Locked<br>
+**Public copy:** Candidate for approval<br>
 **Page:** Why TULBOXX  
 **Recommended route:** `/why-tulboxx`  
 **Primary CTA:** Explore the Platform  
+**Secondary CTA:** Start Free<br>
+**Acquisition offer:** Generate your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Home  
 **Next page in the story:** Platform
 
@@ -17,6 +21,10 @@ This page sells the philosophy behind TULBOXX before selling the software.
 It should explain why running a growing service business becomes unnecessarily difficult, make clear that the contractor is not the problem, and establish the beliefs that guide the product.
 
 The visitor should leave understanding that TULBOXX is different because it starts with how contractors naturally work—not with how traditional business software expects them to work.
+
+## Editorial Ownership
+
+This page owns the TULBOXX product philosophy: software should serve the work, natural workflows should come first, structure should grow with the job, the field sets the standard, and contractor judgment remains in control. It should acknowledge the administrative burden established on Home without retelling the full recognition story.
 
 ---
 
@@ -133,6 +141,14 @@ TULBOXX exists to help put the business back under control.
 
 Explore the Platform
 
+**Secondary CTA**
+
+Start Free
+
+**CTA support line**
+
+Generate your first 5 estimates free. No credit card required.
+
 ## Visual Direction
 
 **Asset ID:** `WHY-HERO-01`
@@ -194,15 +210,13 @@ At some point, doing the work became running the work.
 
 **Body copy**
 
-Being good at the trade brought more customers.
+Growth creates more customers, decisions, and responsibility around every job.
 
-More customers brought estimates, schedules, photos, follow-ups, invoices, payments, and questions that could not wait.
+But most growing contractors do not suddenly gain an office team, more hours in the day, or a second brain that remembers every detail.
 
-The business grew. So did the work nobody sees.
+When the systems underneath the work do not grow with the business, the contractor absorbs the difference. More gets carried in memory. More gets finished at night. More depends on one person keeping the whole company moving.
 
-Now another estimate is waiting after a long day. A customer still needs a call back. A job photo is somewhere in the phone. An invoice is ready—if there is enough time left to send it.
-
-The work that was supposed to create freedom can slowly begin taking it away.
+That is not a work-ethic problem. It is a systems problem.
 
 ## Visual Direction
 
@@ -218,10 +232,7 @@ A documentary-style sequence following one workday.
 
 **Moments**
 
-1. Early morning planning beside a truck.
-2. Field conversation with a customer.
-3. Measurements, notes, and photos during the job.
-4. End-of-day estimate or invoice work.
+Use one short transition from active fieldwork to the business responsibility created by that same job. Do not repeat the homepage's full burden sequence.
 
 **Direction**
 
@@ -261,29 +272,15 @@ You should not have to choose between the field and the business.
 
 **Body copy**
 
-For too many contractors, staying on top of the business means working nights, weekends, and every minute between jobs.
+Most business software offers the same answer to growth: add more fields, more stages, more rules, and more time maintaining the system.
 
-More customers create more paperwork. More jobs create more communication. More employees create more coordination. More revenue creates more things that can fall through the cracks.
+That leaves the contractor with a false choice—stay close to the work and risk losing control of the business, or stay on top of the software and spend less time doing the work that built the company.
 
-That is not what growth is supposed to feel like.
+You should be able to grow without choosing between the field and the business. And without becoming a full-time software administrator.
 
-You should be able to build a successful company without becoming a full-time administrator.
+## Editorial Boundary
 
-## Contrast Copy
-
-**What growth should create**
-
-- More opportunity
-- More confidence
-- More capacity
-- More control over the future
-
-**What growth should not create**
-
-- More duplicate work
-- More lost information
-- More late-night paperwork
-- More dependence on memory
+Home owns the full current-state and better-future contrast. Keep this section focused on the false choice created by software that demands administration.
 
 ## Visual Direction
 
@@ -495,7 +492,7 @@ A quick service call should not require the same process as a long commercial pr
 
 ## Belief 2
 
-**Enter it once.**
+**Do not make the contractor rebuild what the business already knows.**
 
 If the business already knows the address, scope, photos, price, or schedule, the contractor should not have to recreate it in another tool.
 
@@ -623,7 +620,7 @@ The visitor should think:
 
 ---
 
-# Section 8 - What TULBOXX Should Give Back
+# Section 8 - What Better Software Makes Possible
 
 ## Stage
 
@@ -641,33 +638,25 @@ This is bigger than saving a few minutes.
 
 **Headline**
 
-The goal is to give you back capacity.
+The goal is a business you can lead instead of constantly chase.
 
 **Body copy**
 
-Capacity to call another customer. Quote another project. Coach an employee. Think about where the company is going. Finish the day without remembering three things that fell through the cracks.
+When software serves the work, fewer details depend on memory and fewer business tasks wait until the day is over.
 
-Capacity to build the business instead of constantly reacting to it.
+That creates more capacity to make decisions, serve customers, lead a team, and shape what comes next.
 
 ## Transformation Copy
 
-The best version of TULBOXX is almost invisible.
-
-The work moves forward. Customers hear back. Jobs stay organized. Invoices go out. The contractor knows where things stand.
-
-The business feels under control.
+The best version of TULBOXX is almost invisible. The contractor stays in control. The system quietly keeps the work organized underneath them.
 
 ## Success Is Personal
 
-For one contractor, success means becoming a more profitable owner-operator.
-
-For another, it means building a strong team.
-
-For another, it means getting out of the truck.
-
-For another, it means getting Sunday night back.
-
 TULBOXX does not decide what the business should become. It gives the contractor a better system for getting there.
+
+## Editorial Boundary
+
+Home owns the emotional picture of the better future. This section should close the philosophical argument without repeating the homepage's full outcome story.
 
 ## Visual Direction
 
@@ -741,7 +730,11 @@ Explore the Platform
 
 **Secondary CTA**
 
-See How It Works
+Start Free
+
+**CTA support line**
+
+Generate your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -887,7 +880,7 @@ Reuse an approved campaign image if it naturally supports the closing belief. Do
 - Natural Work Pattern: interaction or completion
 - Product Beliefs: expansion or progression
 - Closing: Explore the Platform click
-- Closing: See How It Works click
+- Closing: Start Free click
 
 ## Questions to Answer
 
@@ -904,6 +897,7 @@ Do not shorten the story purely to increase click-through if doing so weakens un
 # Content Required Before Launch
 
 - Confirm the exact Platform and How It Works routes.
+- Confirm the Start Free route and account-creation flow.
 - Approve all example product states used in explanatory visuals.
 - Confirm which product behaviors are currently available versus aspirational.
 - Approve fictional demonstration data.

@@ -48,7 +48,7 @@ Brand promise:
 - `SOLUTIONS.md`
 - `PRICING.md`
 
-Each page blueprint defines the page's purpose, narrative sequence, approved copy, visual direction, responsive behavior, accessibility requirements, and implementation checks.
+Each page blueprint defines the page's purpose, narrative sequence, public-copy candidate, visual direction, responsive behavior, accessibility requirements, and implementation checks. Strategy and page structure are locked; public copy still requires final approval, and product-dependent claims require verification before launch.
 
 ### Visual and component system
 
@@ -58,7 +58,9 @@ Each page blueprint defines the page's purpose, narrative sequence, approved cop
 
 ## Blueprint status
 
-The core launch journey from Home through Pricing is documented. Resources, Customer Stories, and About remain intentional later-phase pages; they should be developed when approved content, evidence, and business requirements are available. Start Free is a conversion flow whose final route and mechanics must be confirmed during implementation.
+The core launch journey from Home through Pricing is documented. Resources, Customer Stories, and About remain intentional later-phase pages; they should be developed when approved content, evidence, and business requirements are available.
+
+The Start Free offer is established: no credit card is required; the first five AI-assisted estimates can be created, sent, shared, and downloaded free; and TULBOXX creates estimate six before protecting its send, share, and download actions with the upgrade wall. The current paid offer is Pro at the confirmed $39-per-month Ground Floor Rate, with every feature included and the monthly rate protected for the life of the active subscription. Ground Floor names the offer and member cohort; Pro remains the product plan name. The final signup route, account-creation steps, and remaining estimate-count edge cases still require implementation decisions; `PRICING.md` is the source of truth.
 
 ## Handoff to production
 
