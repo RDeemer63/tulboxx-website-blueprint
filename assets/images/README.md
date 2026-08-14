@@ -116,6 +116,27 @@ photo-c04-field-capture-desktop-master.png
 - **Alt text:** Excavation contractor checks his phone while seated in the open doorway of his parked work truck with equipment visible behind him.
 - **Production notes:** Perspective-map only a real approved TULBOXX mobile capture onto the white phone screen, preserving the phone angle, hand overlap, realistic glare, brightness, and device edges. This is an alternate `PHOTO-C05` composition, not the customer-call scene required for `PHOTO-C06`. The final treatment must remain unmistakably parked and must never imply phone use while driving.
 
+### Device-detail composition
+
+- **File:** [`approved/shared/photo-c05-field-use-device-detail-desktop-master.png`](approved/shared/photo-c05-field-use-device-detail-desktop-master.png)
+- **Status:** Approved device-detail desktop master with blank compositing screen; background cleanup required
+- **Dimensions:** 1536 × 1024
+- **Source:** AI-generated campaign photography; not a real customer, employee, or testimonial
+- **Purpose:** Provide a prominent, unobstructed phone surface for pairing the recurring contractor story with a real TULBOXX mobile screen.
+- **Alt text:** Excavation contractor holds his phone above the open tailgate of his work truck with tools and an active jobsite behind him.
+- **Production notes:** Perspective-map only a real approved TULBOXX mobile capture onto the white phone screen, preserving the screen angle, hand overlap, realistic glare, brightness, and device edges. Remove or obscure all generated house-wrap lettering before production use. Keep the notebook writing illegible and do not present it as authentic project information.
+
+## `PHOTO-C06`
+
+- **File:** [`approved/shared/photo-c06-customer-call-desktop-master.png`](approved/shared/photo-c06-customer-call-desktop-master.png)
+- **Status:** Approved desktop master; background cleanup required
+- **Dimensions:** 1536 × 1024
+- **Source:** AI-generated campaign photography; neither generated worker is a real customer, employee, or testimonial participant
+- **Purpose:** Show the contractor handling a customer call safely beside his parked truck while work continues at the jobsite.
+- **Reused by:** `WORKFLOW-CALL-02` and `FEATURES-CUSTOMERS-02`
+- **Alt text:** Excavation contractor speaks with a customer by phone beside his parked work truck while an operator works at the residential jobsite.
+- **Production notes:** The contractor is visibly stationary and the active work provides useful context. Remove or obscure all generated house-wrap lettering and any legible equipment markings before production use. Produce a mobile crop that retains the phone-call gesture, contractor expression, and enough jobsite context to make the scene understandable.
+
 ## `PHOTO-C07`
 
 - **File:** [`approved/shared/photo-c07-crew-coordination-desktop-master.png`](approved/shared/photo-c07-crew-coordination-desktop-master.png)
