@@ -904,6 +904,8 @@ The visitor should want to experience the workflow step by step.
 
 Use [`docs/TULBOXX_BRAND_STYLE_GUIDE.pdf`](docs/TULBOXX_BRAND_STYLE_GUIDE.pdf) for brand colors, typography, logo treatment, and overall visual character.
 
+Use [`PHOTOGRAPHY_DIRECTION.md`](PHOTOGRAPHY_DIRECTION.md) for all photographic art direction, generation, selection, cropping, and post-processing.
+
 ## Page Character
 
 The Platform page should feel:

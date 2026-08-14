@@ -1026,6 +1026,8 @@ Avoid:
 
 # Photography Direction
 
+`PHOTOGRAPHY_DIRECTION.md` is the canonical photography standard. It governs camera language, lighting, color, composition, contractor continuity, image-generation prompts, and post-processing. The rules below are a summary and must not be used to override it.
+
 Photography should feel:
 
 Natural.
@@ -1049,6 +1051,8 @@ Jobsite environments should not be excessively cleaned or staged.
 ---
 
 # Image Generation Guidance
+
+Use the master prompt requirements and prohibited-content rules in `PHOTOGRAPHY_DIRECTION.md` for every generated photograph.
 
 When AI-generated photography is necessary, prompts should prioritize:
 
@@ -1170,6 +1174,7 @@ Every visual should reinforce that truth.
 * `CUSTOMER_JOURNEY.md`
 * `WEBSITE_SITEMAP.md`
 * `HOME.md`
+* `PHOTOGRAPHY_DIRECTION.md`
 * `WHY_TULBOXX.md`
 * `PLATFORM.md`
 * `HOW_IT_WORKS.md`

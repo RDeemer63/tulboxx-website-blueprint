@@ -1086,6 +1086,7 @@ The visitor should want to see whether TULBOXX fits their specific work.
 ## Canonical References
 
 - [`VISUAL_STORYBOARD.md`](VISUAL_STORYBOARD.md) governs visual storytelling and image-generation direction.
+- [`PHOTOGRAPHY_DIRECTION.md`](PHOTOGRAPHY_DIRECTION.md) governs photographic art direction, generation, selection, cropping, and post-processing.
 - [`docs/TULBOXX_BRAND_STYLE_GUIDE.pdf`](docs/TULBOXX_BRAND_STYLE_GUIDE.pdf) governs brand colors, typography, and logo treatment.
 
 ## Page Character

@@ -500,6 +500,7 @@ Keep this section quiet and confident. Summarize the established value. Do not a
 ## Canonical References
 
 - [`VISUAL_STORYBOARD.md`](VISUAL_STORYBOARD.md)
+- [`PHOTOGRAPHY_DIRECTION.md`](PHOTOGRAPHY_DIRECTION.md)
 - [`docs/TULBOXX_BRAND_STYLE_GUIDE.pdf`](docs/TULBOXX_BRAND_STYLE_GUIDE.pdf)
 
 ## Page Character

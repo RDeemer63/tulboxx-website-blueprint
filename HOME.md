@@ -948,6 +948,8 @@ Do not allow the footer to become a sitemap of future pages. Show only destinati
 
 Use [`docs/TULBOXX_BRAND_STYLE_GUIDE.pdf`](docs/TULBOXX_BRAND_STYLE_GUIDE.pdf) as the visual reference for brand styling, colors, typography, and logo treatment.
 
+Use [`PHOTOGRAPHY_DIRECTION.md`](PHOTOGRAPHY_DIRECTION.md) as the canonical standard for photography, image-generation prompts, campaign continuity, cropping, and post-processing.
+
 ## Confirmed Core Colors
 
 - Steel Blue: `#082638`

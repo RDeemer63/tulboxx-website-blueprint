@@ -271,6 +271,8 @@ No unnecessary animations.
 
 # Photography
 
+`PHOTOGRAPHY_DIRECTION.md` is the canonical standard for photographic art direction, image-generation prompts, campaign continuity, cropping, and post-processing. Read it before generating, selecting, editing, or compositing any marketing photograph.
+
 Prioritize:
 
 - Real contractors
