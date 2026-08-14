@@ -23,7 +23,7 @@ It also identifies visuals that should be built as responsive HTML, CSS, SVG, or
 ## At a Glance
 
 - **66** section-level asset IDs are accounted for.
-- **9** reusable contractor-photography source sets cover the recurring excavation story; **2** desktop masters are already approved.
+- **9** reusable contractor-photography source sets cover the recurring excavation story; **3** desktop masters are already approved.
 - **17** reusable product-capture sets cover the connected customer-to-payment story.
 - **4** trade environments establish excavation, landscaping, painting, and HVAC relevance.
 - **3** company-stage contexts support owner-operator, small-team, and future growing-company stories.
@@ -69,7 +69,7 @@ The nine source sets below can support many page-level asset IDs. Generate a new
 | `PHOTO-C01` | Contractor checking his phone beside the muddy work truck at an active residential grading site | `HOME-HERO-01`, `WHY-HERO-01` | Desktop master approved | Desktop master, dedicated mobile portrait, optimized exports |
 | `PHOTO-C02` | Three moments of administrative friction: messages in the truck, scattered field notes, and paperwork after hours | `HOME-REALITY-02`, `WHY-SECOND-JOB-02` | Desktop master approved | Desktop triptych, three mobile-ready panels or source compositions, optimized exports |
 | `PHOTO-C03` | Contractor discussing drainage or grading work with a homeowner at the property | `WHY-NATURAL-WORK-05`, `FEATURES-ESTIMATING-04` | Needed | Wide environmental scene, closer interaction, mobile crop |
-| `PHOTO-C04` | Contractor photographing the site and recording a rough voice note before returning to the work | `HOME-AI-06`, `PLATFORM-CAPTURE-03`, `WORKFLOW-CAPTURE-03` | Needed | Photo-taking moment, voice-note moment, phone-safe crop with no generated UI |
+| `PHOTO-C04` | Contractor photographing the site and recording a rough voice note before returning to the work | `HOME-AI-06`, `PLATFORM-CAPTURE-03`, `WORKFLOW-CAPTURE-03` | Desktop two-panel master approved | Separate mobile-ready panels, optimized exports, real UI captured separately |
 | `PHOTO-C05` | Contractor using TULBOXX one-handed beside equipment or from a parked truck between tasks | `HOME-FIELD-07`, `WHY-FIELD-07`, `FEATURES-MOBILE-06` | Needed | Environmental desktop, mobile portrait, close hand-and-device detail |
 | `PHOTO-C06` | Contractor handling a customer call from a parked truck with the active job visible outside | `WORKFLOW-CALL-02`, `FEATURES-CUSTOMERS-02` | Needed | Environmental truck scene, closer call moment, mobile crop |
 | `PHOTO-C07` | Contractor reviewing the day's work with one or two crew members beside the demonstration project | `WHY-CAPACITY-08`, `WORKFLOW-JOB-06`, `FEATURES-JOBS-05` | Needed | Crew interaction, active-work context, safe mobile crop |
@@ -92,6 +92,7 @@ The nine source sets below can support many page-level asset IDs. Generate a new
 |---|---|---|
 | `HOME-HERO-01` | `assets/images/approved/home/home-hero-01-desktop-master.png` | Dedicated mobile portrait and optimized production exports |
 | `HOME-REALITY-02` | `assets/images/approved/home/home-reality-02-desktop-master.png` | Mobile-ready individual panels and optimized production exports |
+| `PHOTO-C04` | `assets/images/approved/shared/photo-c04-field-capture-desktop-master.png` | Mobile-ready individual panels, badge cleanup if required, and optimized production exports |
 
 ---
 
@@ -312,7 +313,7 @@ This table assigns every section-level asset ID a primary production type and re
 ## Phase 1 — Complete the Homepage Photography Story
 
 1. Produce mobile compositions for `PHOTO-C01` and `PHOTO-C02`.
-2. Generate and approve `PHOTO-C04`, `PHOTO-C05`, and `PHOTO-C09`.
+2. Generate and approve `PHOTO-C05` and `PHOTO-C09`.
 3. Capture the minimum homepage app set: `APP-01`, `APP-03`, `APP-06`, `APP-07`, `APP-12`, and `APP-14`.
 4. Produce `TRADE-02`, `TRADE-03`, and `TRADE-04` only when the Solutions preview is ready.
 5. Keep `HOME-PROOF-08` in an honest pre-proof state until `PROOF-01` exists.

@@ -38,12 +38,14 @@ Examples:
 home-hero-01-desktop-master.png
 home-hero-01-mobile-master.png
 home-hero-01-desktop.webp
-home-reality-02-triptych-concept.png
+home-reality-02-desktop-master.png
+photo-c04-field-capture-desktop-master.png
 ```
 
 - `master` identifies the highest-quality approved source.
 - `desktop` and `mobile` identify intentionally composed aspect ratios, not merely resized files.
 - `concept` identifies a review asset that is not approved for production.
+- Shared campaign sources use their `PHOTO-C##` source ID from `IMAGE_PRODUCTION_PLAN.md` when one master supports multiple page assets.
 - Do not overwrite an approved master with an unapproved revision.
 
 ---
@@ -69,6 +71,17 @@ home-reality-02-triptych-concept.png
 - **Purpose:** Three recognition moments showing customer messages, scattered notes, and work continuing after hours
 - **Alt text:** Three moments in an excavation contractor's day: checking customer messages in his truck, tracking job details in a notebook, and completing paperwork at home.
 - **Production notes:** Keep the headline, panel labels, and descriptions in accessible HTML rather than compositing them into the image. On mobile, present the moments as three separate panels or intentionally cropped sources rather than shrinking the full triptych. Retouch or replace any phone or paperwork detail that becomes legible enough to resemble synthetic customer information. Keep the after-hours scene thoughtful rather than dramatically exhausted. Do not present the subject as a real TULBOXX customer.
+
+## `PHOTO-C04`
+
+- **File:** [`approved/shared/photo-c04-field-capture-desktop-master.png`](approved/shared/photo-c04-field-capture-desktop-master.png)
+- **Status:** Approved desktop two-panel master
+- **Dimensions:** 1537 × 1023
+- **Source:** AI-generated campaign photography; not a real customer, employee, or testimonial
+- **Purpose:** Show the contractor documenting a residential drainage site with a photograph and then recording a rough voice note.
+- **Reused by:** `HOME-AI-06`, `PLATFORM-CAPTURE-03`, and `WORKFLOW-CAPTURE-03`
+- **Alt text:** Excavation contractor photographs a residential drainage jobsite and records a voice note beside his work truck.
+- **Production notes:** Treat the two moments as separate responsive panels on mobile rather than shrinking the complete horizontal composition. Keep all explanatory copy in HTML and composite only real approved TULBOXX UI. Remove or obscure any generated equipment badge that becomes legible at the final display size. Do not present the subject as a real TULBOXX customer.
 
 ---
 
