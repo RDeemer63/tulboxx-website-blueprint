@@ -361,12 +361,9 @@ That reputation matters more than any feature list.
 
 ## Related Documents
 
-- PRODUCT_VISION.md
 - WHY.md
 - WEBSITE_NORTH_STAR.md
 - DESIGN_PRINCIPLES.md
-- POSITIONING.md
-- MESSAGING_FRAMEWORK.md
 
 ## Document Authority
 

@@ -487,7 +487,6 @@ That is the experience every page should create.
 
 ## Related Documents
 
-- PRODUCT_VISION.md
 - WEBSITE_NORTH_STAR.md
 - WHY.md
 - BRAND_STRATEGY.md

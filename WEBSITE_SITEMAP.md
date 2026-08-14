@@ -146,7 +146,7 @@ Explain why contractor software has become overly complicated.
 
 Show why TULBOXX exists.
 
-Introduce the Product Vision in emotional language.
+Introduce the company purpose and product philosophy in emotional language.
 
 ### Questions Answered
 
@@ -320,7 +320,7 @@ Reduce uncertainty.
 
 Explain value.
 
-Compare plans.
+Present the Ground Floor Rate clearly.
 
 Handle objections.
 
@@ -332,7 +332,15 @@ Is this worth it?
 
 ### Primary CTA
 
-Start Free
+Lock In My Ground Floor Rate
+
+---
+
+# Later-Phase Content Pages
+
+Resources, Customer Stories, and About belong in the long-term website architecture, but they are not part of the completed core launch blueprint. Develop them only when TULBOXX has approved educational content, verified customer evidence, and the company information needed to make each page useful and credible.
+
+Start Free is a conversion flow rather than a content blueprint. Its route, account-creation steps, payment requirements, and offer details must be confirmed during implementation.
 
 ---
 

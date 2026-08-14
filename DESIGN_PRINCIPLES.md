@@ -488,7 +488,6 @@ Every single time.
 
 ## Related Documents
 
-- PRODUCT_VISION.md
 - WHY.md
 - WEBSITE_NORTH_STAR.md
 - BRAND_STRATEGY.md
