@@ -60,22 +60,21 @@ home-reality-02-triptych-concept.png
 - **Alt text:** Excavation contractor checking his phone beside a muddy work truck at a residential grading jobsite.
 - **Production notes:** Preserve the open space on the left for the hero copy. Create a dedicated mobile portrait composition rather than relying on a tight crop. Produce optimized WebP or AVIF derivatives during website implementation. Do not present the subject as a real TULBOXX customer.
 
+## `HOME-REALITY-02`
+
+- **File:** [`approved/home/home-reality-02-desktop-master.png`](approved/home/home-reality-02-desktop-master.png)
+- **Status:** Approved desktop master
+- **Dimensions:** 1536 × 1024
+- **Source:** AI-generated campaign photography; not a real customer, employee, or testimonial
+- **Purpose:** Three recognition moments showing customer messages, scattered notes, and work continuing after hours
+- **Alt text:** Three moments in an excavation contractor's day: checking customer messages in his truck, tracking job details in a notebook, and completing paperwork at home.
+- **Production notes:** Keep the headline, panel labels, and descriptions in accessible HTML rather than compositing them into the image. On mobile, present the moments as three separate panels or intentionally cropped sources rather than shrinking the full triptych. Retouch or replace any phone or paperwork detail that becomes legible enough to resemble synthetic customer information. Keep the after-hours scene thoughtful rather than dramatically exhausted. Do not present the subject as a real TULBOXX customer.
+
 ---
 
 # Assets Under Review
 
-## `HOME-REALITY-02`
-
-- **File:** [`review/home/home-reality-02-triptych-concept.png`](review/home/home-reality-02-triptych-concept.png)
-- **Status:** Concept approved; execution requires revision
-- **Dimensions:** 1536 × 1024
-- **Source:** AI-generated campaign concept
-- **Purpose:** Three recognition moments showing customer messages, scattered notes, and work continuing after hours
-- **Alt text:** Pending final production asset
-- **What works:** Clear narrative sequence, recognizable administrative friction, consistent contractor character, and an effective transition from fieldwork to after-hours work.
-- **Required revision:** Produce three clean underlying photographs without baked-in headings, captions, app UI, readable paperwork, or synthetic text. Build the headline, panel labels, descriptions, dividers, and any product UI as accessible HTML or approved interface composites. Bring the color and contrast closer to the softer `HOME-HERO-01` treatment, and keep the after-hours scene thoughtful rather than dramatically exhausted.
-
-This concept must remain in `review/` until the three source images and responsive layout are approved.
+No assets are currently under review.
 
 ---
 
