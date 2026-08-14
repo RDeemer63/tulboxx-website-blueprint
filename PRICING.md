@@ -1,22 +1,27 @@
 # TULBOXX Pricing
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.1<br>
+**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
 **Page:** Pricing  
 **Recommended route:** `/pricing`  
-**Primary CTA:** Lock In My Ground Floor Rate  
+**Primary CTA:** Start Free<br>
+**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Solutions  
-**Next step in the story:** Ground Floor signup
+**Next step in the story:** Create the first free estimate
 
 ---
 
 # Page Purpose
 
-The Pricing page helps a visitor decide whether TULBOXX is worth the investment and whether to secure the current Ground Floor Rate.
+The Pricing page helps a visitor understand the complete path: create the first 5 estimates free with no credit card, experience the product, then continue at the $39-per-month Ground Floor Rate.
 
 By this point, the visitor should understand the philosophy, platform, workflow, features, and relevance. Pricing should reduce uncertainty—not restart the sales pitch.
 
-The page must make the price, lifetime rate protection, included value, and next step easy to understand.
+The page must make the free entry point, paid price, lifetime rate protection, included value, and next step easy to understand.
+
+## Editorial Ownership
+
+This page owns the offer, value, terms, objections, and buying decision. It should summarize only enough product value to support the decision and must not restart the philosophy, platform, workflow, or feature sales story.
 
 ---
 
@@ -24,11 +29,15 @@ The page must make the price, lifetime rate protection, included value, and next
 
 > Is TULBOXX worth $39 per month, and should I get in on the ground floor?
 
+The page must also answer:
+
+> Can I experience enough of TULBOXX to make that decision without entering a credit card?
+
 ---
 
 # Desired Belief
 
-> I can get every TULBOXX feature for $39 per month and keep that rate for the life of my active subscription. I understand the value and know exactly what happens next.
+> I can create my first 5 estimates free with no credit card, then continue with every TULBOXX feature for $39 per month at a rate protected for the life of my active subscription.
 
 ---
 
@@ -40,7 +49,7 @@ TULBOXX Pricing | Get the Ground Floor Rate
 
 ## Recommended Meta Description
 
-Get every TULBOXX feature for $39 per month and keep your Ground Floor Rate for the life of your active subscription.
+Create your first 5 estimates free with no credit card. Continue with every TULBOXX feature for $39 per month and keep your Ground Floor Rate while your subscription stays active.
 
 ## Social Direction
 
@@ -56,6 +65,8 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 - Never hide essential differences in fine print.
 - Never label a plan “Most Popular” without real evidence or a deliberate recommendation rationale.
 - Use one primary CTA.
+- Use Start Free as the acquisition CTA. Do not make visitors choose between starting free and buying before they have experienced the product.
+- State the five-estimate limit anywhere the free offer is described in detail. Never imply an unlimited free plan.
 - Present one complete offer. Do not imply that Ground Floor customers receive a limited tier.
 - Use modeled ROI only with visible assumptions and disclaimers.
 - Answer real objections directly.
@@ -65,6 +76,16 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 
 # Confirmed Current Offer
 
+## Free Entry Experience
+
+- Public CTA: Start Free
+- Allowance: First 5 estimates
+- Credit card: Not required
+- Positioning: A limited product experience, not a free plan
+- Paid next step: Ground Floor Rate after the five-estimate experience
+
+## Paid Ground Floor Offer
+
 - Public offer name: Ground Floor Rate
 - Price: $39 per month
 - Enrollment: Currently open
@@ -72,6 +93,18 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 - Feature access: All current TULBOXX features included
 - Future access: Future TULBOXX features included as the platform grows
 - Tiering: No feature tiers for Ground Floor customers
+
+## Canonical Funnel
+
+```text
+Start Free
+    ↓
+Create the first 5 estimates
+    ↓
+Experience TULBOXX with no credit card required
+    ↓
+Continue at the $39/month Ground Floor Rate
+```
 
 # Operational Terms to Confirm Before Implementation
 
@@ -81,7 +114,11 @@ The public copy contains no placeholders, but checkout and legal implementation 
 - Taxes and regional availability
 - Exact cancellation, failed-payment, pause, and reinstatement rules
 - Included users and any future additional-user charges
-- Trial, credit-card, and onboarding mechanics, if applicable
+- What action counts as creating one of the five estimates
+- How the remaining estimate allowance is displayed
+- What happens when the fifth estimate is created
+- What product access and data access remain before subscription
+- Checkout and onboarding mechanics after the free experience
 
 ---
 
@@ -91,25 +128,25 @@ The public copy contains no placeholders, but checkout and legal implementation 
 
 **Eyebrow**
 
-Get in on the ground floor.
+Start with real work. Decide from experience.
 
 **Headline**
 
-$39/month. Locked in for as long as you stay subscribed.
+Create your first 5 estimates free.
 
 **Supporting copy**
 
-Join TULBOXX while we build the next generation of contractor business software and keep your Ground Floor Rate for the life of your active subscription.
+No credit card required. Use TULBOXX for the work directly in front of you, then continue for $39 per month with every feature included.
 
-Everything is included—every feature available today and every TULBOXX feature we add as the platform grows.
+Join while Ground Floor enrollment is open, and that $39 monthly rate stays locked for the life of your active subscription.
 
 **Primary CTA**
 
-Lock In My Ground Floor Rate
+Start Free
 
 **Support line**
 
-Ground Floor enrollment is currently open. Once it closes, new customers will pay the pricing available at that time.
+First 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -119,15 +156,17 @@ Use a quiet Steel Blue and Tradesman White composition with clear typography and
 
 ---
 
-# Section 2 - Offer at a Glance
+# Section 2 - The Path at a Glance
 
 ## Purpose
 
-Make the full offer understandable within seconds.
+Make the free-to-paid path understandable within seconds.
 
 ## Offer Facts
 
-- $39 per month
+- First 5 estimates free
+- No credit card required to start
+- $39 per month after the free estimate experience
 - All current features included
 - Future TULBOXX features included
 - No feature tiers
@@ -137,6 +176,8 @@ Make the full offer understandable within seconds.
 ## Rules
 
 - Keep `$39/month` and the active-subscription condition together.
+- Keep the five-estimate limit beside the word “free” whenever the complete offer is explained.
+- Do not call the free experience a trial or imply an unlimited free plan.
 - Do not describe the offer as “lifetime access.”
 - Do not imply that enrollment has closed or use an invented deadline.
 - Do not use a monthly/annual toggle while only monthly pricing is approved.
@@ -180,7 +221,11 @@ Your $39 monthly rate remains locked for the life of your active subscription.
 
 **CTA**
 
-Lock In My Ground Floor Rate
+Start Free
+
+**CTA support line**
+
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -382,19 +427,19 @@ Use an accessible accordion or open text sections. Critical pricing and cancella
 
 **Headline**
 
-Start with the business you have. Build the one you want.
+Start with your next estimate.
 
 **Body copy**
 
-Get in on the ground floor, see how TULBOXX fits your day, and take the first step toward a more organized business.
+Create up to 5 estimates with TULBOXX before deciding whether to continue at the Ground Floor Rate.
 
 **Primary CTA**
 
-Lock In My Ground Floor Rate
+Start Free
 
 **Support line**
 
-Ground Floor enrollment is currently open. Your $39 monthly rate stays locked for the life of your active subscription.
+No credit card required. If you continue after the free estimate experience, the current Ground Floor Rate is $39 per month for the life of your active subscription.
 
 ## Visual Direction
 
@@ -436,12 +481,15 @@ Keep this section quiet and confident. Summarize the established value. Do not a
 Maintain one approved source of truth containing:
 
 - Public offer name
+- Free-estimate allowance and the exact event that consumes one estimate
+- No-credit-card requirement for the free entry experience
+- Conversion point from the free experience to paid access
 - Price, currency, and monthly billing period
 - Active-subscription rate-protection rule
 - Included users and usage limits when finalized
 - All-feature entitlement
 - Add-ons and fees
-- Trial and eligibility rules, if introduced
+- Free-experience eligibility and repeat-signup rules
 - Enrollment close event when selected
 - Cancellation and refund terms
 - Regional restrictions
@@ -474,7 +522,10 @@ Existing Ground Floor customers retain their $39 monthly rate and all-feature ac
 
 Track:
 
-- Ground Floor CTA selection
+- Start Free CTA selection
+- First estimate created
+- Five-estimate allowance progression
+- Free-to-Ground-Floor conversion
 - Included-feature engagement
 - ROI-calculator use
 - FAQ engagement
@@ -483,6 +534,8 @@ Track:
 Answer:
 
 - Do visitors understand the Ground Floor Rate quickly?
+- Do visitors understand that free means the first 5 estimates rather than an unlimited plan?
+- Does the no-credit-card entry point reduce uncertainty without obscuring the paid next step?
 - Where does uncertainty remain?
 - Are visitors surprised by limits or fees?
 - Do visitors understand that all features are included?
@@ -511,6 +564,8 @@ Do not manipulate defaults solely to increase short-term conversion.
 The page is ready when:
 
 - Every price and term is approved.
+- Visitors understand that they can create their first 5 estimates free with no credit card.
+- The page never implies an unlimited free plan.
 - Visitors understand the $39 Ground Floor Rate within seconds.
 - Billing units and commitments are unambiguous.
 - Fees and meaningful limits are disclosed.
@@ -519,6 +574,7 @@ The page is ready when:
 - FAQs answer real objections directly.
 - Mobile offer details are usable.
 - Ground Floor terms match checkout and subscription behavior.
+- The estimate allowance and free-to-paid transition match product behavior.
 - The page creates confidence without pressure.
 
 ---

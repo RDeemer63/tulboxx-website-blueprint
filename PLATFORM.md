@@ -1,11 +1,12 @@
 # TULBOXX Platform
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.1<br>
+**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
 **Page:** Platform  
 **Recommended route:** `/platform`  
 **Primary CTA:** See How It Works  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Why TULBOXX  
 **Next page in the story:** How It Works
 
@@ -18,6 +19,10 @@ The Platform page explains how TULBOXX works as one connected operating system f
 This is the first page in the website journey where the product becomes the primary proof.
 
 The page should show how customers, projects, estimates, jobs, invoices, payments, and communication remain connected as work moves forward. It should help the visitor understand the system without turning into a feature catalog or dashboard gallery.
+
+## Editorial Ownership
+
+This page owns the connected-information model: one customer, one job, and one continuous history across the work. It should prove relationships between information, not re-teach the product philosophy, narrate every workflow step, or inventory every feature.
 
 ---
 
@@ -149,6 +154,10 @@ See How It Works
 
 Start Free
 
+**CTA support line**
+
+Create your first 5 estimates free. No credit card required.
+
 ## Visual Direction
 
 **Asset ID:** `PLATFORM-HERO-01`
@@ -267,7 +276,7 @@ The visitor should think:
 
 ---
 
-# Section 3 - Capture Work Naturally
+# Section 3 - Bring Information Into the Project
 
 ## Stage
 
@@ -275,25 +284,21 @@ Understanding
 
 ## Question Answered
 
-How does information enter the platform?
+How does the first information become part of the connected record?
 
 ## Copy
 
 **Eyebrow**
 
-Start with what you already have.
+Give the first details one place to belong.
 
 **Headline**
 
-A call, a text, a photo, or a rough note can start the work.
+A call, photo, or supported note becomes project context.
 
 **Body copy**
 
-Real jobs do not begin with a perfect form.
-
-They begin with a customer explaining a problem, pictures from the property, a few measurements, and what you learned while walking the site.
-
-Capture what matters now. Add detail as the work develops. TULBOXX helps organize the information without forcing you to know everything at the beginning.
+Bring the customer details, property information, photos, measurements, and supported notes into the same project. As more is learned, it joins the existing record instead of creating another disconnected starting point.
 
 ## Input Examples
 
@@ -311,7 +316,7 @@ Capture what matters now. Add detail as the work develops. TULBOXX helps organiz
 
 **Purpose**
 
-Show that the system accommodates natural, incomplete input.
+Show how confirmed input becomes part of the connected project record.
 
 **Format**
 
@@ -339,7 +344,7 @@ The final product state must visibly distinguish original information from any o
 
 The visitor should think:
 
-> I could start this the way I already work.
+> I can see where the information goes and what it stays connected to.
 
 ---
 
@@ -587,17 +592,15 @@ Powerful technology. Practical help.
 
 **Headline**
 
-AI works underneath the process—not above your judgment.
+Use connected context to reduce supported busywork.
 
 **Body copy**
 
-Use AI to help organize rough information, prepare clearer language, and reduce repetitive work.
+Where verified, TULBOXX can use information already connected to the project to help organize a draft or prepare clearer language. Every assisted result must preserve a visible contractor review step.
 
-You review the result. You set the price. You approve the scope. You decide what moves forward.
+## Editorial Boundary
 
-**Principle line**
-
-AI organizes. Contractors decide.
+Why TULBOXX owns the full contractor-control principle. This section exists only to show where verified assistance fits inside the connected platform.
 
 ## Visual Direction
 
@@ -636,7 +639,7 @@ The visitor should think:
 
 ---
 
-# Section 8 - Simple and Complex Work
+# Section 8 - The Record Grows With the Work
 
 ## Stage
 
@@ -644,25 +647,25 @@ Confidence
 
 ## Question Answered
 
-Will this fit both straightforward jobs and more involved projects?
+Can the connected record hold the right level of detail for different work?
 
 ## Copy
 
 **Eyebrow**
 
-The right amount of structure.
+Connected without being overloaded.
 
 **Headline**
 
-Simple jobs stay simple. Complex work still has room to grow.
+Keep the record focused, then add what the job requires.
 
 **Body copy**
 
-A quick repair should not require the same process as a long project.
+A straightforward job may need only the customer, work, completion, and payment. A larger project may add approved scope, phases, documentation, communication, and billing detail while preserving the same connected history.
 
-Start with the information the job needs. Add more detail, communication, documentation, and financial structure only when the work requires it.
+## Editorial Boundary
 
-TULBOXX should feel lightweight for the small job and capable for the larger one.
+Why TULBOXX owns the progressive-structure philosophy. This section should prove its effect on the platform's information model.
 
 ## Comparison
 
@@ -867,7 +870,7 @@ Start Free
 
 **CTA support line**
 
-Add signup reassurance only after trial, credit-card, and cancellation terms are confirmed.
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1091,7 +1094,8 @@ Reuse the same source captures across sections when they explain different parts
 - Confirm which complex-project capabilities are currently available.
 - Approve the fictional demonstration project and all data.
 - Capture approved desktop and mobile product states.
-- Confirm Start Free terms and routes.
+- Confirm the Start Free route and account-creation flow.
+- Confirm how the five-estimate allowance is counted and displayed in the product.
 - Confirm final accent colors, logos, and production fonts.
 
 Any capability that is aspirational must be removed from launch copy or clearly separated into approved future-state communication.

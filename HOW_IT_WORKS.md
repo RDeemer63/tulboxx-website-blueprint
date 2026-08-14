@@ -1,11 +1,12 @@
 # How TULBOXX Works
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.1<br>
+**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
 **Page:** How It Works  
 **Recommended route:** `/how-it-works`  
 **Primary CTA:** Explore Features  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Platform  
 **Next page in the story:** Features
 
@@ -20,6 +21,10 @@ It should show what using TULBOXX feels like from the first customer conversatio
 This is not a feature tour.
 
 It is one job, told clearly from beginning to end.
+
+## Editorial Ownership
+
+This page owns the practical first-call-to-final-payment demonstration through Morgan Lee's Backyard Drainage and Grading project. It should show the product in use rather than re-sell the philosophy, re-explain the information model, or become a feature inventory.
 
 ---
 
@@ -190,6 +195,10 @@ Follow the Job
 
 Start Free
 
+**CTA support line**
+
+Create your first 5 estimates free. No credit card required.
+
 ## Visual Direction
 
 **Asset ID:** `WORKFLOW-HERO-01`
@@ -323,11 +332,7 @@ Walk the site. Capture what matters while it is in front of you.
 
 At the property, take photos, record measurements, and describe the work in your own words.
 
-Use a rough note or voice description. TULBOXX can help organize the information into a clearer starting point. You review the details and decide what belongs in the project.
-
-**Principle line**
-
-AI organizes. Contractors decide.
+Use a supported rough note or voice description. Where verified, TULBOXX prepares a clearer draft for the contractor to review, edit, and confirm before it becomes part of the project.
 
 **Outcome line**
 
@@ -807,6 +812,10 @@ Customer → Work → Invoice or Payment
 Customer → Scheduled Work → Recorded Work → Invoice → Payment
 ```
 
+## Editorial Boundary
+
+Keep these alternate paths because they prevent the Morgan Lee demonstration from looking mandatory. Do not restate the broader progressive-structure philosophy owned by Why TULBOXX.
+
 ## Visual Direction
 
 **Asset ID:** `WORKFLOW-FLEX-09`
@@ -924,7 +933,7 @@ Start Free
 
 **CTA support line**
 
-Add signup reassurance only after the exact offer and terms are confirmed.
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1165,7 +1174,8 @@ Reuse source photography and product captures across the page. The visitor shoul
 - Approve all fictional demonstration data.
 - Produce approved project photography or realistic generated imagery.
 - Capture desktop and mobile product states.
-- Confirm Start Free offer and route.
+- Confirm the Start Free route and account-creation flow.
+- Confirm how the five-estimate allowance is counted and displayed in the product.
 - Confirm final brand assets, accent colors, and production fonts.
 
 Any unsupported step must be revised, removed, or explicitly approved as future-state communication before launch.

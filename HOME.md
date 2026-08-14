@@ -1,11 +1,12 @@
 # TULBOXX Homepage
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.1<br>
+**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
 **Page:** Home  
 **Recommended route:** `/`  
 **Primary CTA:** See How It Works  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
 **Next page in the story:** Why TULBOXX
 
 ---
@@ -23,6 +24,10 @@ The visitor should understand three things:
 3. It helps the business feel more organized without creating more administration.
 
 The homepage should create recognition before explanation, outcomes before features, and confidence before commitment.
+
+## Editorial Ownership
+
+This page owns the contractor's current administrative burden and the promise of a better future. It may preview connected work, product philosophy, field use, and capabilities, but it should not fully explain them. Those ideas belong to Platform, Why TULBOXX, How It Works, and Features.
 
 ---
 
@@ -170,7 +175,7 @@ Start Free
 
 **CTA support line**
 
-Add trial or signup reassurance only after the exact offer, credit-card requirement, and cancellation terms are confirmed.
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -381,11 +386,11 @@ What does “one place” actually mean?
 
 **Eyebrow**
 
-Enter it once. Keep it moving.
+One connected place.
 
 **Headline**
 
-The information moves with the work.
+See the work move forward without starting over.
 
 **Body copy**
 
@@ -409,35 +414,13 @@ Invoice
 Payment
 ```
 
-## Supporting Copy by Step
-
-### Customer
-
-Start with what you already know from the call, text, photo, or site visit.
-
-### Scope
-
-Turn rough information into a clear description of the work.
-
-### Estimate
-
-Send a professional price and give the customer a clear next step.
-
-### Job
-
-Keep the schedule, details, photos, and communication connected.
-
-### Invoice
-
-Bill from the work that is already there instead of starting over.
-
-### Payment
-
-See what is paid, what is outstanding, and what needs attention.
-
 ## CTA
 
 See How It Works
+
+## Editorial Boundary
+
+Keep this as a fast preview. `PLATFORM.md` owns the connected-information explanation, and `HOW_IT_WORKS.md` owns the complete step-by-step workflow.
 
 ## Visual Direction
 
@@ -565,7 +548,7 @@ The visitor should think:
 
 ---
 
-# Section 6 - Natural Work and Quiet AI
+# Section 6 - A Better Starting Point
 
 ## Stage
 
@@ -573,27 +556,25 @@ Belief
 
 ## Question Answered
 
-Will I have to change the way I work?
+Can TULBOXX help with the rough information I already have?
 
 ## Copy
 
 **Eyebrow**
 
-Work naturally.
+Start with what you know.
 
 **Headline**
 
-Talk like a contractor. Finish like you have an office team.
+Turn rough information into a clearer next step.
 
 **Body copy**
 
-Start with a rough note, a voice description, a customer message, or photos from the site.
+Start with a supported note, voice description, customer message, or jobsite photo. TULBOXX can help prepare a clearer draft for your review.
 
-TULBOXX can help organize what matters and prepare the next step. You review it. You decide. You stay in control.
+## Editorial Boundary
 
-**Principle line**
-
-AI organizes. Contractors decide.
+The full contractor-control philosophy belongs on Why TULBOXX. Here, show only the practical benefit and the visible review step.
 
 ## Visual Direction
 
@@ -633,7 +614,7 @@ The visitor should think:
 
 ---
 
-# Section 7 - Built for the Field
+# Section 7 - Ready for the Workday
 
 ## Stage
 
@@ -641,30 +622,31 @@ Belief → Trust
 
 ## Question Answered
 
-Was this built for the way I really work?
+Can this fit into a real day in the field?
 
 ## Copy
 
 **Eyebrow**
 
-Built for the person in the truck.
+Ready between jobs.
 
 **Headline**
 
-Simple when the job is simple. Ready when it is not.
+Keep the next action close.
 
 **Body copy**
 
-A quick service call should stay quick. A larger project should have room for the details that matter.
-
-TULBOXX gives you structure when it helps and stays out of the way when it does not.
+A contractor should be able to find the customer, capture what changed, and take the next supported action without returning to a desk.
 
 ## Supporting Points
 
-- Start with incomplete information and add detail as the work develops.
-- Use the phone in the field without feeling trapped in an office workflow.
-- Keep straightforward jobs straightforward.
-- Add more structure when the project actually requires it.
+- Reach the work from a supported mobile experience.
+- Capture useful information while it is still fresh.
+- See one clear next action without navigating a crowded desktop view.
+
+## Editorial Boundary
+
+The field-first design philosophy belongs on Why TULBOXX. This homepage section should provide a brief credibility cue, not repeat the complete argument.
 
 ## Visual Direction
 
@@ -871,7 +853,7 @@ See How It Works
 
 **CTA support line**
 
-Add only confirmed signup terms. Do not use “No credit card required,” a trial length, or cancellation language until verified.
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1125,9 +1107,8 @@ Do not optimize for clicks at the expense of clarity or trust.
 
 # Content and Proof Required Before Launch
 
-- Confirm the exact Start Free offer and route.
-- Confirm whether a credit card is required.
-- Confirm trial length, if a trial exists.
+- Confirm the Start Free route and account-creation flow.
+- Confirm how the five-estimate allowance is counted and displayed in the product.
 - Confirm the product terms used in workflow screens.
 - Capture approved product screens for desktop and mobile.
 - Create fictional demonstration data for product visuals.
@@ -1155,6 +1136,7 @@ The homepage is ready for production when:
 - The mobile experience preserves the story instead of merely stacking desktop sections.
 - Every CTA uses one of the two approved actions.
 - The page naturally encourages the visitor to see how TULBOXX works or start free.
+- Every Start Free reassurance accurately states the five-estimate limit and no-credit-card requirement.
 - Accessibility, performance, and reduced-motion requirements are met.
 
 ---

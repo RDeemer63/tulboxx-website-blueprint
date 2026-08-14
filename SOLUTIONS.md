@@ -1,11 +1,12 @@
 # TULBOXX Solutions
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.1<br>
+**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
 **Page:** Solutions Hub  
 **Recommended route:** `/solutions`  
 **Primary CTA:** View Pricing  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** Features  
 **Next page in the story:** Pricing
 
@@ -20,6 +21,10 @@ The Features page answered what TULBOXX can do.
 This page answers whether those capabilities make sense for the way a specific contractor works.
 
 The hub should route visitors into genuinely specific solution pages. It must not create the illusion of personalization by swapping trade names over identical copy.
+
+## Editorial Ownership
+
+This page owns relevance: whether TULBOXX fits the visitor's trade, company stage, and desired outcome. Generic platform, workflow, and feature explanations belong on their respective pages; Solutions should show only what changes when those capabilities meet a specific audience.
 
 ---
 
@@ -102,6 +107,10 @@ Find Your Solution
 **Secondary CTA**
 
 Start Free
+
+**CTA support line**
+
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -407,6 +416,10 @@ Reduce repeated entry and administrative work that follows the contractor home.
 
 Use a connected before-and-after workflow for each selected outcome. Avoid promises based only on icons or unsupported metrics.
 
+## Editorial Boundary
+
+These outcome descriptions are routing summaries. `FEATURES.md` owns the detailed capability proof behind them.
+
 ---
 
 # Section 6 - One Platform, Different Paths
@@ -445,6 +458,10 @@ Walkthrough → Photos and Rooms → Estimate → Approval → Schedule → Work
 HVAC Service
 Call → Schedule → Diagnose → Repair or Recommendation → Invoice → Payment → Follow-up
 ```
+
+## Editorial Boundary
+
+Show only the trade-specific differences that make each path useful. `HOW_IT_WORKS.md` owns the complete generic first-call-to-payment demonstration.
 
 ## Visual Direction
 
@@ -505,15 +522,15 @@ Now that I see the fit, can I justify the investment?
 
 **Eyebrow**
 
-See what fits your business.
+See the offer clearly.
 
 **Headline**
 
-Choose the level of TULBOXX your business needs.
+Start free, then keep the whole platform at one straightforward rate.
 
 **Body copy**
 
-Review the plans, compare the value, and find the right place to start.
+See how the first 5 estimates work, what is included at $39 per month, and how the Ground Floor Rate stays protected.
 
 **Primary CTA**
 
@@ -525,7 +542,7 @@ Start Free
 
 **CTA support line**
 
-Add pricing or signup reassurance only after the exact offer and terms are confirmed.
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -658,7 +675,8 @@ Research should improve accuracy, not produce stereotypes. A trade page should b
 - Approve trade-specific fictional data.
 - Obtain expert review for trade language and imagery.
 - Confirm all customer proof and permissions.
-- Confirm pricing and Start Free routes and terms.
+- Confirm the Pricing and Start Free routes.
+- Confirm how the five-estimate allowance is counted and displayed in the product.
 - Approve generated photography and product composites.
 
 ---

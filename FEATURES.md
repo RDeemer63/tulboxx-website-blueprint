@@ -1,11 +1,12 @@
 # TULBOXX Features
 
-**Version:** 1.0  
-**Status:** Page Blueprint - Draft for Approval  
+**Version:** 1.1<br>
+**Status:** Page Blueprint - Editorially Consolidated; Product Verification Required<br>
 **Page:** Features  
 **Recommended route:** `/features`  
 **Primary CTA:** See Solutions  
 **Secondary CTA:** Start Free  
+**Acquisition offer:** Create your first 5 estimates free. No credit card required.<br>
 **Previous page in the story:** How It Works  
 **Next page in the story:** Solutions
 
@@ -22,6 +23,10 @@ Every feature must be explained through an outcome, demonstrated with real produ
 This page is detailed.
 
 It should never feel like a feature dump.
+
+## Editorial Ownership
+
+This page owns capability proof, organized around Win Work, Run the Work, Stay Organized, and Get Paid. It may reference the connected platform and contractor-control principles, but it should not retell the full philosophy or Morgan Lee workflow.
 
 ---
 
@@ -190,7 +195,7 @@ The tools to win work, run jobs, stay organized, and get paid.
 
 **Supporting copy**
 
-TULBOXX connects the customer, the project, the schedule, the paperwork, and the money so every feature helps move the same work forward.
+Browse the verified capabilities behind four business outcomes: winning work, running the work, staying organized, and getting paid.
 
 **Primary CTA**
 
@@ -199,6 +204,10 @@ Explore the Features
 **Secondary CTA**
 
 Start Free
+
+**CTA support line**
+
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -812,13 +821,13 @@ Get the busywork done faster. Keep the judgment that matters.
 
 **Body copy**
 
-Use AI to help organize rough information, prepare clearer language, and reduce repetitive administrative work.
+Where verified, use AI assistance to organize rough information, prepare clearer language, and reduce repetitive administrative work.
 
-You review the result. You set the price. You approve the scope. You decide what moves forward.
+Capability proof must show the original input, the assisted draft, and the contractor's review or confirmation before use.
 
-**Principle line**
+## Editorial Boundary
 
-AI organizes. Contractors decide.
+Why TULBOXX owns the broader contractor-control principle. This section should document and prove the verified capability only.
 
 ## Candidate Capabilities Requiring Verification
 
@@ -1049,7 +1058,7 @@ Start Free
 
 **CTA support line**
 
-Add signup reassurance only after the exact offer and terms are confirmed.
+Create your first 5 estimates free. No credit card required.
 
 ## Visual Direction
 
@@ -1304,7 +1313,8 @@ Reuse approved imagery when it strengthens continuity. Generate a new asset only
 - Confirm reporting, automation, integration, and export capabilities.
 - Approve fictional demonstration data.
 - Capture approved product UI.
-- Confirm Start Free offer and routes.
+- Confirm the Start Free route and account-creation flow.
+- Confirm how the five-estimate allowance is counted and displayed in the product.
 - Confirm brand assets, accent colors, and production fonts.
 
 ---
