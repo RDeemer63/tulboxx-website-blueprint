@@ -586,6 +586,8 @@ Review the customer and work, capture information, take the next action, and kee
 
 The mobile experience should respect limited time, imperfect conditions, and one-handed use.
 
+TULBOXX is currently available on phones and tablets as a responsive web application used through the browser. Do not present a native Apple or Android app as a current capability.
+
 ## Capability Statements
 
 ### Find the work quickly
@@ -1166,7 +1168,7 @@ Before production, create a working matrix with one row per capability.
 | Public feature name | Customer-facing terminology |
 | Outcome | Why the contractor cares |
 | Current status | Available, limited, beta, planned, or unsupported |
-| Supported platforms | Desktop, mobile web, native mobile, or other confirmed surface |
+| Supported platforms | Current: desktop and responsive mobile web; future installable or native surfaces remain roadmap items |
 | User role | Who can view or act |
 | Trigger | What starts the behavior |
 | Contractor action | What the user must decide or confirm |

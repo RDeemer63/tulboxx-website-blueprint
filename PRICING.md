@@ -91,6 +91,8 @@ Use a simple branded pricing summary. Avoid lifestyle photography, promotional b
 - Public offer name: Ground Floor Rate
 - Product plan name: Pro
 - Price: $39 per month
+- Billing cadence: Monthly only
+- Annual plan or annual discount: Not offered
 - Checkout price: Confirmed
 - Enrollment: Currently open
 - Rate protection: $39 per month for the life of the active subscription
@@ -132,10 +134,10 @@ The public copy contains no placeholders, but checkout and legal implementation 
 
 - Whether payment-processing and other third-party transaction fees remain separate
 - Taxes and regional availability
-- Exact cancellation, failed-payment, pause, and reinstatement rules
+- Exact failed-payment, pause, and reinstatement rules
 - Included users and any future additional-user charges
 - How the remaining estimate allowance is displayed
-- What product access and data access remain before subscription
+- What viewing, exporting, or recovery options remain after paid access ends
 - Checkout and onboarding mechanics after the free experience
 - Whether a failed, canceled, or retried AI generation consumes a free use
 - How duplicate, deleted, and regenerated estimates affect the allowance
@@ -187,6 +189,7 @@ Make the free-to-paid path understandable within seconds.
 - First 5 AI-assisted estimates free to create, send, share, and download
 - No credit card required to start
 - $39 per month after the free estimate experience
+- Monthly billing only; no annual plan or annual discount
 - All current features included
 - Future TULBOXX features included
 - No feature tiers
@@ -379,7 +382,7 @@ Know what else can affect the total.
 - Integrations or add-ons
 - Taxes
 - Overage behavior
-- Annual commitment
+- Billing cadence and annual commitment (monthly only; no annual plan at launch)
 - Hardware or third-party costs
 
 ## Rule
@@ -402,15 +405,23 @@ Entering or editing the details does not count by itself. Your first five AI-ass
 
 ### Is TULBOXX difficult to set up?
 
-Answer with the confirmed onboarding process, expected effort, available assistance, and what the customer must prepare.
+You can begin with the work you already have. The current onboarding experience uses a checklist on the home screen to help you complete your business profile, add a customer, create your first estimate, and explore Today's List.
+
+You do not have to finish every profile detail before beginning, but completing your business information and document preferences helps TULBOXX prepare more useful customer-facing work.
+
+**Roadmap note — not public launch copy:** Replace or augment the checklist with a guided experience led by Bolt, the TULBOXX assistant. Bolt should use a brand-approved SVG character and contextual walkthrough prompts to explain each screen and help the contractor build the business profile as they go.
 
 ### Can I bring information from another system?
 
-Explain confirmed import or migration support and limitations.
+Not yet. TULBOXX does not currently offer self-service importing or migration.
+
+The first planned import should accept a basic CSV file, let the contractor map its columns to TULBOXX fields, preview the result, identify duplicates or missing required information, and approve the import before records are created. QuickBooks-formatted files and exports from other systems can be added after the core mapping flow is proven.
 
 ### Will this work from my phone?
 
-Describe current mobile availability and important differences.
+Yes. TULBOXX is a responsive web application that works through the browser on a phone, tablet, or computer.
+
+It is not currently a native Apple or Android app. An installable web app and native mobile options are planned for evaluation after V2 is complete.
 
 ### Can my team use it?
 
@@ -422,15 +433,27 @@ TULBOXX can send professional invoices, send invoice reminder emails, record pay
 
 ### What does AI do with my information?
 
-Explain supported AI behavior, review, data handling, and limitations using approved policy language.
+TULBOXX uses AI to help organize the information you provide and prepare useful drafts, including estimates. You remain in control: review the result, make any changes, and decide what gets sent to your customer.
+
+When an AI feature is used, TULBOXX sends the information needed for that request to its commercial AI provider. Customer inputs and outputs are not opted into model training. The provider's standard policy is to delete API inputs and outputs from its systems within 30 days, with limited exceptions for safety, legal compliance, or a different service agreement. TULBOXX separately retains the account and project information needed to provide the service under its own privacy and retention policy.
+
+**Legal and implementation review — not public copy:** Confirm that production uses Anthropic's commercial API under the expected account settings, that no feedback or training opt-in is enabled, and that the TULBOXX Privacy Policy accurately explains what is sent, what TULBOXX stores, how long it is retained, and how deletion requests are handled. Anthropic's current commercial-product guidance says API inputs and outputs [are not used for training by default](https://privacy.anthropic.com/en/articles/7996868-is-my-data-used-for-model-training) and [are normally deleted from its backend within 30 days](https://privacy.anthropic.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data), subject to stated exceptions. Have qualified counsel review the final Privacy Policy and Terms before publication.
 
 ### Can I cancel?
 
-State exact cancellation, renewal, data-access, and refund terms.
+Yes. TULBOXX is a monthly subscription. If you cancel, your access continues through the end of the current paid billing period and the subscription does not renew for another month.
+
+Payments are non-refundable. TULBOXX does not provide prorated refunds or credits for unused time, except where required by law. There is no annual plan or annual commitment.
+
+After paid access ends, the account and project data remain stored in TULBOXX, but the customer no longer has product access.
+
+**Retention policy note — not public copy:** TULBOXX does not currently delete canceled-account data from its database. Define a retention period, deletion process, export process, and any reactivation or recovery window before publishing the final Privacy Policy. Do not promise indefinite retention.
 
 ### What support is included?
 
-Explain channels, hours, response expectations, and plan differences.
+Bolt, the in-app AI assistant, is available inside TULBOXX for immediate product guidance. When you need help from a person, email support@tulboxx.com.
+
+**Launch requirement — not public copy:** Create and test the `support@tulboxx.com` Google Workspace group before publication. Set an honest response-time expectation when support operations can reliably meet it. Do not promise 24/7 human support unless operations can consistently provide it.
 
 ## Rule
 
