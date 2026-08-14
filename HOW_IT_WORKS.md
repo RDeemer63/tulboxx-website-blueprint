@@ -491,7 +491,7 @@ Turn the approved work into a clear plan.
 
 When Morgan approves the estimate, keep the decision attached to the project.
 
-Carry the approved work forward, choose the next action, schedule the job, and make sure everyone knows what was agreed to.
+Carry the approved work forward, choose the next action, schedule the job, and keep what was agreed within reach.
 
 **Outcome line**
 
@@ -502,13 +502,13 @@ The job begins with the approved scope already connected.
 - Confirm the approval state
 - Review the approved scope
 - Confirm deposit or prerequisite status when applicable and supported
-- Choose dates and assign the work when supported
+- Choose or confirm the job dates
 - Prepare the job details
-- Communicate the next step to the customer
+- Use the connected details to communicate the next step to the customer
 
 ## Customer Experience
 
-Morgan knows the estimate was accepted and what will happen before the crew arrives.
+The contractor has the approved scope and schedule context needed to tell Morgan what happens next.
 
 ## Visual Direction
 
@@ -527,11 +527,11 @@ An approval-to-job product transition.
 - The approved estimate remains visible in project history.
 - Approved scope appears in the job context.
 - The contractor selects or confirms the schedule.
-- Customer communication reflects the confirmed plan.
+- The approved scope and selected schedule remain connected.
 
 **Verification rule**
 
-Show only approval, deposit, scheduling, assignment, and notification behaviors supported by the current product.
+Show only approval, deposit, scheduling, and notification behaviors supported by the current product.
 
 ## Exit Condition
 
@@ -559,26 +559,26 @@ Step 5
 
 **Headline**
 
-Give the field the information it needs—without sending everyone back to the office.
+Bring the job details with you into the field.
 
 **Body copy**
 
-The crew can see the customer, property, approved work, schedule, photos, and details that matter to the job.
+At the jobsite, pull up the customer, property, approved work, schedule, photos, and details that matter to the job.
 
 As the drainage work progresses, capture notes, photos, updates, and important changes with the project instead of scattering them across personal phones.
 
 **Outcome line**
 
-The people doing the work can understand what was promised and what has happened.
+The work begins with the promise and the latest project details still connected.
 
 ## Job Information
 
 - Customer and property context
 - Approved scope
-- Schedule and assignment when supported
+- Schedule and job status
 - Site photos and access details
 - Work notes and completion evidence
-- Customer communication
+- Customer and approval context
 - Changes or exceptions requiring attention
 
 ## Visual Direction
@@ -733,7 +733,7 @@ The business knows where the money stands without searching for the rest of the 
 
 ## Customer Experience
 
-Morgan has a clear payment step and a complete, professional close to the job.
+Morgan receives a clear invoice, and the contractor keeps the payment record connected when payment arrives.
 
 ## Visual Direction
 
@@ -745,7 +745,7 @@ Complete the workflow with clarity rather than celebration.
 
 **Format**
 
-Contractor and customer payment states followed by the completed project history.
+Customer invoice state followed by the contractor recording payment and the updated project history.
 
 **Rule**
 
@@ -1034,7 +1034,7 @@ Create and review:
 - Voice note and rough scope
 - Estimate line items and totals
 - Approval state
-- Schedule and assignment state
+- Schedule and job state
 - Job notes and completion photos
 - Invoice details
 - Payment state
@@ -1177,8 +1177,8 @@ Reuse source photography and product captures across the page. The visitor shoul
 - Produce approved project photography or realistic generated imagery.
 - Capture desktop and mobile product states.
 - Confirm the Start Free route and account-creation flow.
-- Verify that a free use is consumed only when Generate Estimate invokes AI.
-- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Confirm final brand assets, accent colors, and production fonts.
 
 Any unsupported step must be revised, removed, or explicitly approved as future-state communication before launch.

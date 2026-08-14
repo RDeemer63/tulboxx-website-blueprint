@@ -1126,8 +1126,8 @@ Do not optimize for clicks at the expense of clarity or trust.
 # Content and Proof Required Before Launch
 
 - Confirm the Start Free route and account-creation flow.
-- Verify that a free use is consumed only when Generate Estimate invokes AI.
-- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Confirm the product terms used in workflow screens.
 - Capture approved product screens for desktop and mobile.
 - Create fictional demonstration data for product visuals.

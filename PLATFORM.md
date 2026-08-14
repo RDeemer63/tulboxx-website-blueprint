@@ -220,11 +220,11 @@ Everything important stays with the work.
 
 **Body copy**
 
-The address should not live in one app while the photos live in another. The scope should not disappear after the estimate. The crew should not have to ask what the customer already approved.
+The address should not live in one app while the photos live in another. The scope should not disappear after the estimate. You should not have to reconstruct what the customer already approved when the work begins.
 
 In TULBOXX, the customer and project create the shared history underneath the work.
 
-Contacts, notes, photos, estimates, schedule details, messages, invoices, payments, and decisions remain connected to the same story.
+Contacts, notes, photos, estimates, schedule details, customer-document activity, invoices, payments, and decisions remain connected to the same story.
 
 ## Core Relationship
 
@@ -528,26 +528,22 @@ Give customers a clear, professional experience from start to finish.
 
 **Body copy**
 
-The customer should not have to piece together what is happening from scattered texts, missed calls, and different documents.
+The customer should not have to receive an estimate that feels disconnected from the invoice and follow-up that come later.
 
-Keep the estimate, approval, job communication, invoice, and payment experience connected to the same work.
+Use the same customer and work context to prepare clearer estimates, preserve approval, send professional invoices, and follow up on an outstanding balance.
 
-Professional communication should be possible whether the company has an office team or the owner is handling it from the truck.
+Professional communication should be possible even when the owner is handling it from the truck.
 
 ## Customer Experience Path
 
 ```text
-Clear response
-    ↓
 Professional estimate
     ↓
 Obvious approval step
     ↓
-Useful job communication
+Clear invoice and amount due
     ↓
-Clear invoice
-    ↓
-Confident payment experience
+Professional invoice follow-up
 ```
 
 ## Visual Direction
@@ -564,7 +560,7 @@ Side-by-side contractor and customer states from the same demonstration project.
 
 **Concept**
 
-The contractor sends or advances one item. The adjacent customer view shows the resulting estimate, approval request, update, or invoice. The relationship between internal action and customer experience should be obvious.
+The contractor sends or advances one item. The adjacent customer view shows the resulting estimate, approval request, invoice, or reminder. The relationship between internal action and customer experience should be obvious.
 
 **Rule**
 
@@ -1103,8 +1099,8 @@ Reuse the same source captures across sections when they explain different parts
 - Approve the fictional demonstration project and all data.
 - Capture approved desktop and mobile product states.
 - Confirm the Start Free route and account-creation flow.
-- Verify that a free use is consumed only when Generate Estimate invokes AI.
-- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Confirm final accent colors, logos, and production fonts.
 
 Any capability that is aspirational must be removed from launch copy or clearly separated into approved future-state communication.

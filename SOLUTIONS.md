@@ -338,16 +338,16 @@ Keep customer details, estimates, jobs, invoices, and follow-ups organized while
 
 **Headline**
 
-Give the team one shared understanding of the work.
+Keep the work clear as more people become involved.
 
 **Copy**
 
-Keep customer, scope, schedule, photos, job details, and activity connected so information does not live in one person's phone or head.
+Keep customer, scope, schedule, photos, job details, and activity connected so the owner can prepare clearer handoffs without reconstructing the job each time.
 
 **Relevant outcomes**
 
 - Clearer handoffs
-- Shared job context
+- Better-prepared job handoffs
 - Consistent customer communication
 - More visible schedule and work status
 - Better completion documentation
@@ -360,19 +360,19 @@ Add control without adding unnecessary process.
 
 **Copy**
 
-Create a reliable operating rhythm as customers, jobs, employees, and financial activity increase.
+Create a reliable operating rhythm as customers, jobs, and financial activity increase.
 
 **Relevant outcomes**
 
 - More consistent workflows
-- Clear ownership and next actions when supported
+- Clear next actions
 - Better business visibility
-- Useful automation and reporting when available
+- Useful reporting and reminders
 - Complexity that appears only when needed
 
 ## Verification Rule
 
-Team roles, permissions, assignments, reporting, automation, and multi-user behavior must be confirmed before any company-stage page publishes them.
+Do not imply multi-user access, team roles, permissions, crew assignments, or shared employee accounts. Those capabilities are not part of the current launch product. Reporting and reminders may be shown only through verified current product states.
 
 ## Visual Direction
 
@@ -402,7 +402,7 @@ Connect approved work, schedule, field details, progress, and completion.
 
 ## Communicate Professionally
 
-Give customers clear responses, documents, approvals, updates, invoices, and payment steps.
+Give customers professional estimates, clear approvals, invoices, and thoughtful follow-up.
 
 ## Get Paid With Less Friction
 
@@ -678,8 +678,8 @@ Research should improve accuracy, not produce stereotypes. A trade page should b
 - Obtain expert review for trade language and imagery.
 - Confirm all customer proof and permissions.
 - Confirm the Pricing and Start Free routes.
-- Verify that a free use is consumed only when Generate Estimate invokes AI.
-- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Approve generated photography and product composites.
 
 ---

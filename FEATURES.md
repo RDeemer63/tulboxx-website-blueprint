@@ -68,7 +68,7 @@ Desire to see a solution for my business
 
 ## Search Intent
 
-Contractors and service business owners comparing business-management capabilities for customers, projects, estimating, scheduling, fieldwork, invoices, payments, communication, reporting, automation, and AI assistance.
+Contractors and service business owners comparing business-management capabilities for customers, projects, estimating, scheduling, fieldwork, invoices, payment tracking, communication, reporting, reminders, and AI assistance.
 
 ## Recommended Title
 
@@ -76,7 +76,7 @@ TULBOXX Features | Contractor Business Software That Works Together
 
 ## Recommended Meta Description
 
-Explore connected tools for customers, estimating, jobs, scheduling, invoices, payments, communication, mobile work, and AI assistance.
+Explore connected tools for customers, estimating, jobs, scheduling, invoices, payment tracking, communication, mobile work, reporting, reminders, and AI assistance.
 
 ## Social Share Title
 
@@ -125,7 +125,7 @@ Organize features around four business outcomes rather than software categories.
 - Scheduling
 - Field access
 - Photos, notes, and activity
-- Team coordination when supported
+- Clear job handoffs
 
 ## Stay Organized
 
@@ -133,13 +133,13 @@ Organize features around four business outcomes rather than software categories.
 - Daily priorities or next actions
 - Connected communication
 - Reporting
-- Automation and reminders
-- Integrations
+- Reminders
 
 ## Get Paid
 
 - Invoicing
-- Payment requests and processing
+- Invoice delivery and follow-up
+- Contractor-recorded payments and refunds
 - Outstanding balances
 - Payment status and history
 
@@ -164,7 +164,7 @@ Help visitors find a specific capability without making the page feel like produ
 - Communication
 - Invoices and Payments
 - AI Assistance
-- Reporting, Automation, and Integrations
+- Reporting and Reminders
 
 ## Behavior
 
@@ -504,7 +504,7 @@ Know what is happening every day—and what each job needs.
 
 Carry approved work into the job, choose when it should happen, and keep the schedule connected to the customer and project.
 
-Give the people doing the work access to the details that matter without rebuilding the story in a group text.
+Open the job and find the details that matter without rebuilding the story from scattered messages and notes.
 
 ## Capability Statements
 
@@ -524,9 +524,9 @@ Make scope, notes, photos, access details, and important history available from 
 
 Add field notes, photos, activity, and completion information as the job moves forward.
 
-### Coordinate the team
+### Keep the handoff clear
 
-Give the right people visibility into the work they are responsible for.
+Keep the approved scope, schedule, access details, notes, and changes together when the work moves from sold to scheduled.
 
 ## Product Proof Required
 
@@ -534,7 +534,6 @@ Give the right people visibility into the work they are responsible for.
 - Daily work view
 - Job details
 - Customer and project context
-- Assignments when supported
 - Progress and completion states
 
 ## Visual Direction
@@ -675,11 +674,11 @@ See who the customer is, what the work involves, and what happened last before r
 
 ### Send professional next steps
 
-Send estimates, approvals, scheduling information, invoices, or payment requests with the work still in context.
+Send professional estimates and invoices, give the customer a clear approval step, and follow up on outstanding invoices with the work still in context.
 
 ### Preserve important history
 
-Keep important communication available with the customer or project.
+Keep send, view, approval, and reminder activity available with the customer or project.
 
 ### Improve rough language
 
@@ -687,7 +686,7 @@ Use AI assistance to organize or clarify a rough message, then review it before 
 
 ## Product Proof Required
 
-- Communication history
+- Send, view, approval, and reminder activity
 - Compose or send state
 - Connected document or project context
 - Customer view
@@ -751,9 +750,9 @@ Use the job, estimate, or project information already captured as the starting p
 
 The contractor confirms the amount, terms, taxes, discounts, and details the product supports.
 
-### Give the customer a clear payment step
+### Make the amount and due date clear
 
-Give the customer a clear invoice and an obvious way to complete the available payment step.
+Give the customer a professional invoice that clearly states what is due and when.
 
 ### Keep balances visible
 
@@ -768,8 +767,8 @@ Keep invoice and payment status connected to the customer and project.
 - Invoice builder
 - Customer-facing invoice
 - Send state
-- Payment request or checkout
-- Payment confirmation
+- Contractor-recorded payments and refunds
+- Payment history
 - Outstanding balance and status
 - Project financial history
 
@@ -783,11 +782,11 @@ Show billing as the final connected stage of the work.
 
 **Format**
 
-Completed job → reviewed invoice → customer payment step → updated status.
+Completed job → reviewed invoice → customer view → recorded payment → updated status.
 
 **Supporting photography**
 
-A contractor in a parked truck receiving a payment update may support the product sequence. Keep it grounded and avoid floating currency graphics.
+A contractor in a parked truck recording a payment that has been received may support the product sequence. Keep it grounded and avoid floating currency graphics.
 
 **Verification rule**
 
@@ -831,7 +830,7 @@ You review the result, set the price, approve the scope, and decide what gets us
 
 Why TULBOXX owns the broader contractor-control principle. This section should document and prove the verified capability only.
 
-## Candidate Capabilities Requiring Verification
+## Current Capability Statements Requiring Final Product Capture
 
 ### Voice or rough notes to organized draft
 
@@ -843,15 +842,15 @@ Help organize work descriptions while preventing unsupported invention.
 
 ### Customer communication assistance
 
-Improve clarity and professionalism while preserving contractor review.
-
-### Job-note organization
-
-Help turn field information into usable project context.
+Prepare or improve estimate emails, invoice messages, and invoice reminders while preserving contractor review.
 
 ### Repeated-information reduction
 
-Use existing project context to reduce unnecessary re-entry where supported.
+Use existing customer and project context when starting connected estimates, jobs, and invoices.
+
+## Roadmap Boundary
+
+Do not imply AI job-note summarization, autonomous actions, SMS drafting, or AI Autopilot as current capabilities.
 
 ## Product Proof Required
 
@@ -901,7 +900,7 @@ The visitor should think:
 
 ---
 
-# Section 10 - Reporting, Automation, and Integrations
+# Section 10 - Reporting and Reminders
 
 ## Outcome Group
 
@@ -909,41 +908,41 @@ Stay Organized
 
 ## Question Answered
 
-Can the platform provide more leverage as the business grows?
+Can the platform help me see what is happening and remember what needs attention?
 
 ## Copy
 
 **Eyebrow**
 
-More leverage when you need it.
+Visibility without another spreadsheet.
 
 **Headline**
 
-Understand the business, reduce repeated work, and connect what matters.
+See where the business stands—and what needs attention next.
 
 **Body copy**
 
-Connected information can help reveal what is happening across the business, support useful reminders or automation, and work with other systems when a real integration creates value.
+Use connected estimates, jobs, invoices, and payments to understand cash position, recent revenue, sales activity, and work in progress.
 
-These capabilities should reduce administration—not create another system to maintain.
+Set reminders with customer or project context, bring due items into Today's List, and prepare invoice follow-ups without rebuilding the story.
 
-## Capability Categories Requiring Full Verification
+## Verified Capability Categories
 
 ### Reporting
 
-Show only metrics, filters, exports, and reporting views available in the current product.
+Show the current cash-position, revenue-trend, sales-performance, estimate-pipeline, and job-value views using realistic demonstration data.
 
-### Automation and reminders
+### Contextual reminders
 
-Explain what triggers an action, what the action does, what the contractor controls, and how mistakes can be prevented or corrected.
+Create customer or project reminders, see them when they are due, and mark them complete.
 
-### Integrations
+### Invoice follow-up
 
-List only active, supported integrations. Explain the practical outcome of each connection rather than displaying a logo wall.
+Prepare and send invoice reminder emails while keeping the invoice and customer context together.
 
-### Data access and export
+## Roadmap Boundary
 
-Explain available export, portability, or synchronization behavior only after confirmation.
+Do not publish integrations, exports, autonomous workflows, SMS, or AI Autopilot as current capabilities. Add them only after they are implemented and verified.
 
 ## Visual Direction
 
@@ -955,17 +954,17 @@ Explain advanced leverage without making the platform look complex.
 
 **Format**
 
-Up to three focused product spotlights. Do not combine reporting, automation, and integrations into one crowded diagram.
+Up to three focused product spotlights: business visibility, a due reminder in Today's List, and an invoice follow-up.
 
 **Launch rule**
 
-If one of these categories is not meaningfully available at launch, remove it from the page rather than filling the section with future-state language.
+Use only current product states and realistic demonstration data. Do not imply guaranteed business outcomes.
 
 ## Exit Condition
 
 The visitor should think:
 
-> There is more capability available as my business needs it, but I do not have to manage all of it today.
+> I could see what is happening and follow through without carrying it all in my head.
 
 ---
 
@@ -1199,7 +1198,7 @@ Planned and unsupported capabilities must not appear in present-tense marketing 
 8. Invoice builder and customer view
 9. Payment and outstanding-balance state
 10. AI input, suggestion, review, and approved result
-11. Reporting, automation, or integration states that survive verification
+11. Reporting and reminder states
 
 ## Capture Standards
 
@@ -1312,12 +1311,12 @@ Reuse approved imagery when it strengthens continuity. Generate a new asset only
 - Confirm every customer-facing channel and state.
 - Confirm AI behavior and contractor review boundaries.
 - Confirm payment methods, provider behavior, fees, timing, and status labels.
-- Confirm reporting, automation, integration, and export capabilities.
+- Confirm the reporting views, reminder behavior, and invoice follow-up states shown on the page.
 - Approve fictional demonstration data.
 - Capture approved product UI.
 - Confirm the Start Free route and account-creation flow.
-- Verify that a free use is consumed only when Generate Estimate invokes AI.
-- Verify that estimate six can be drafted and the paywall appears only when Generate Estimate is selected.
+- Verify that the first five AI-assisted estimates can be sent, shared, and downloaded free.
+- Verify that TULBOXX creates estimate six before its send, share, and download actions present the upgrade wall.
 - Confirm brand assets, accent colors, and production fonts.
 
 ---

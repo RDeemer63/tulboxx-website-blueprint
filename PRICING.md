@@ -295,9 +295,8 @@ One rate. The whole TULBOXX platform.
 - Communication
 - Invoices and Payments
 - AI Assistance
-- Reporting and Automation
-- Integrations and Data
-- Team, Permissions, and Support
+- Reporting and Reminders
+- Account and Billing Management
 
 ## Presentation Rules
 
@@ -415,11 +414,11 @@ Describe current mobile availability and important differences.
 
 ### Can my team use it?
 
-Explain included users, additional-user pricing, roles, and permissions.
+TULBOXX currently supports one user account per business. Team accounts, roles, permissions, crew assignments, and additional-user pricing are planned for a later product phase and should not be promised at launch.
 
 ### How do payments work?
 
-Explain provider, methods, timing, fees, and availability.
+TULBOXX can send professional invoices, send invoice reminder emails, record payments or refunds received outside TULBOXX, and keep the outstanding balance and payment history visible. Customer card and ACH checkout through TULBOXX is not currently available and should not be implied before Stripe Connect launches.
 
 ### What does AI do with my information?
 
